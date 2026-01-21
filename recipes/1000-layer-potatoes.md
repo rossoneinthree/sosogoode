@@ -1,7 +1,7 @@
 ---
 title: 1000 layer potatoes
 type: side
-protein: meat
+protein: vegetarian
 effort: weekend
 vibes: 🥔,🍟
 ---
