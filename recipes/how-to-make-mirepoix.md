@@ -1,5 +1,5 @@
 ---
-title: How To Make Mirepoix
+title: Mirepoix
 protein: vegetarian
 ---
 
