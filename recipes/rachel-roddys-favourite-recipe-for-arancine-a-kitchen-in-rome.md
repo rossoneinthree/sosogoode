@@ -1,5 +1,5 @@
 ---
-title: Rachel Roddy’s favourite recipe for arancine | A kitchen in Rome
+title: Arancine | A kitchen in Rome
 type: main
 protein: vegetarian
 effort: weeknight
