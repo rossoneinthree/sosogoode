@@ -1,6 +1,6 @@
 ---
 title: Nicoise Salad (French Salad with Tuna)
-type: pasta
+type: salad
 protein: vegetarian
 vibes: 🌎
 ---
