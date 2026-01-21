@@ -1,5 +1,5 @@
 ---
-title: Rukmini Iyer’s quick and easy recipe for crispy one-tin gnocchi with leeks and harissa
+title: Crispy one-tin gnocchi with leeks and harissa
 type: pasta
 protein: vegetarian
 effort: weeknight
