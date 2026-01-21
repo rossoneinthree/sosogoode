@@ -1,5 +1,5 @@
 ---
-title: How to cook the perfect osso buco
+title: Osso buco
 protein: meat
 vibes: 🌎
 ---
