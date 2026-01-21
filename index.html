@@ -59,6 +59,24 @@
             -webkit-tap-highlight-color: transparent;
         }
 
+        /* Meal type filters - orange outline when inactive */
+        .filter-button[data-filter="type"] {
+            border-color: #ff6b35;
+            color: #ff6b35;
+        }
+
+        /* Protein filters - green outline when inactive */
+        .filter-button[data-filter="protein"] {
+            border-color: #2d9f4e;
+            color: #2d9f4e;
+        }
+
+        /* Effort filters - black outline when inactive */
+        .filter-button[data-filter="effort"] {
+            border-color: #333;
+            color: #333;
+        }
+
         .filter-button:active {
             transform: scale(0.95);
         }
@@ -67,6 +85,27 @@
             background: #333;
             color: #fff;
             border-color: #333;
+        }
+
+        /* Meal type filters - orange */
+        .filter-button[data-filter="type"].active {
+            background: #ff6b35;
+            border-color: #ff6b35;
+            color: #fff;
+        }
+
+        /* Protein filters - green */
+        .filter-button[data-filter="protein"].active {
+            background: #2d9f4e;
+            border-color: #2d9f4e;
+            color: #fff;
+        }
+
+        /* Effort filters - black (default) */
+        .filter-button[data-filter="effort"].active {
+            background: #333;
+            border-color: #333;
+            color: #fff;
         }
 
         .filter-button.emoji {
@@ -293,26 +332,34 @@
         // Load and parse all recipes
         async function loadRecipes() {
             try {
-                // Get list of recipe files from the recipes directory
-                // This works on GitHub Pages by fetching the directory listing
-                const response = await fetch('recipes/');
-                const html = await response.text();
+                // For GitHub Pages, use GitHub API to list files in recipes directory
+                const repoOwner = 'rossoneinthree';
+                const repoName = 'sosogoode';
+                const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/recipes`;
                 
-                // Parse HTML to extract .md file links
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(html, 'text/html');
-                const links = Array.from(doc.querySelectorAll('a'))
-                    .map(a => a.getAttribute('href'))
-                    .filter(href => href && href.endsWith('.md'));
+                const response = await fetch(apiUrl);
+                if (!response.ok) throw new Error('Failed to fetch recipe list');
+                
+                const files = await response.json();
+                const recipeFiles = files
+                    .filter(file => file.name.endsWith('.md'))
+                    .map(file => file.name);
 
                 // Fetch and parse each recipe
-                const recipePromises = links.map(async (filename) => {
-                    const response = await fetch(`recipes/${filename}`);
-                    const text = await response.text();
-                    return parseRecipe(text, filename);
+                const recipePromises = recipeFiles.map(async (filename) => {
+                    try {
+                        const response = await fetch(`recipes/${filename}`);
+                        if (!response.ok) throw new Error(`Failed to load ${filename}`);
+                        const text = await response.text();
+                        return parseRecipe(text, filename);
+                    } catch (error) {
+                        console.error(`Error loading ${filename}:`, error);
+                        return null;
+                    }
                 });
 
-                allRecipes = await Promise.all(recipePromises);
+                const recipes = await Promise.all(recipePromises);
+                allRecipes = recipes.filter(r => r !== null);
                 
                 // Extract all unique emoji/vibes
                 const allVibes = new Set();
