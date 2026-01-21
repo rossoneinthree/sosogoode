@@ -1,5 +1,5 @@
 ---
-title: Jamie Oliver's Slow-roasted Lamb with Fennel, Sage, Onion and Merguez Stuffing
+title: Slow-roasted Lamb with Fennel, Sage, Onion and Merguez Stuffing
 type: main
 protein: meat
 ---
