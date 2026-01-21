@@ -1,7 +1,7 @@
 ---
 title: Spicy Korean Cucumber Salad
 type: side
-protein: meat
+protein: vegetarian
 ---
 
 ## Ingredients
