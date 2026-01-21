@@ -1,7 +1,7 @@
 ---
 title: vegan pad thai
 type: main
-protein: meat
+protein: veg
 effort: weeknight
 vibes: 🧂,🫚,🥗,🍄,🍋
 ---
