@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Filter</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #fff;
+            padding: 16px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        /* Filter Section */
+        .filters {
+            margin-bottom: 24px;
+            position: sticky;
+            top: 0;
+            background: #fff;
+            padding: 16px 0;
+            z-index: 100;
+            border-bottom: 1px solid #eee;
+        }
+
+        .filter-group {
+            margin-bottom: 12px;
+        }
+
+        .filter-group:last-child {
+            margin-bottom: 0;
+        }
+
+        .filter-button {
+            display: inline-block;
+            padding: 8px 16px;
+            margin: 4px 4px 4px 0;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            background: #fff;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .filter-button:active {
+            transform: scale(0.95);
+        }
+
+        .filter-button.active {
+            background: #333;
+            color: #fff;
+            border-color: #333;
+        }
+
+        .filter-button.emoji {
+            font-size: 20px;
+            padding: 6px 12px;
+        }
+
+        /* Recipe List */
+        .recipe-count {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 12px;
+        }
+
+        .recipe-list {
+            list-style: none;
+        }
+
+        .recipe-item {
+            padding: 16px 0;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .recipe-item:active {
+            background: #f9f9f9;
+        }
+
+        .recipe-item:last-child {
+            border-bottom: none;
+        }
+
+        .recipe-title {
+            font-size: 16px;
+            font-weight: 500;
+            margin-bottom: 4px;
+        }
+
+        .recipe-meta {
+            font-size: 13px;
+            color: #666;
+        }
+
+        .recipe-meta span {
+            margin-right: 12px;
+        }
+
+        /* Recipe Detail View */
+        .recipe-detail {
+            margin: 24px 0;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            display: none;
+        }
+
+        .recipe-detail.visible {
+            display: block;
+        }
+
+        .recipe-detail h2 {
+            font-size: 20px;
+            margin-bottom: 16px;
+            font-weight: 600;
+        }
+
+        .recipe-detail h3 {
+            font-size: 16px;
+            margin: 20px 0 12px 0;
+            font-weight: 600;
+        }
+
+        .recipe-detail p {
+            margin-bottom: 12px;
+            white-space: pre-wrap;
+        }
+
+        .recipe-detail ul,
+        .recipe-detail ol {
+            margin-left: 20px;
+            margin-bottom: 12px;
+        }
+
+        .recipe-detail li {
+            margin-bottom: 8px;
+        }
+
+        .recipe-detail strong {
+            font-weight: 600;
+        }
+
+        .recipe-detail a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        .recipe-detail a:hover {
+            text-decoration: underline;
+        }
+
+        .close-button {
+            display: inline-block;
+            padding: 8px 16px;
+            background: #333;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            margin-bottom: 16px;
+        }
+
+        .close-button:active {
+            transform: scale(0.95);
+        }
+
+        /* Loading State */
+        .loading {
+            text-align: center;
+            padding: 40px 0;
+            color: #666;
+        }
+
+        /* Empty State */
+        .empty {
+            text-align: center;
+            padding: 40px 0;
+            color: #666;
+        }
+
+        /* Desktop adjustments */
+        @media (min-width: 768px) {
+            body {
+                padding: 32px;
+            }
+
+            h1 {
+                font-size: 32px;
+                margin-bottom: 32px;
+            }
+
+            .filters {
+                padding: 24px 0;
+            }
+
+            .filter-button {
+                font-size: 15px;
+                padding: 10px 20px;
+            }
+
+            .recipe-title {
+                font-size: 18px;
+            }
+
+            .recipe-detail h2 {
+                font-size: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Recipes</h1>
+
+    <!-- Filters -->
+    <div class="filters">
+        <!-- Recipe Type Filters -->
+        <div class="filter-group">
+            <button class="filter-button" data-filter="type" data-value="anything">Anything</button>
+            <button class="filter-button" data-filter="type" data-value="breakfast">Breakfast</button>
+            <button class="filter-button" data-filter="type" data-value="main">Main</button>
+            <button class="filter-button" data-filter="type" data-value="dessert">Dessert</button>
+        </div>
+        <div class="filter-group">
+            <button class="filter-button" data-filter="type" data-value="side">Side</button>
+            <button class="filter-button" data-filter="type" data-value="snack">Snack</button>
+            <button class="filter-button" data-filter="type" data-value="salad">Salad</button>
+            <button class="filter-button" data-filter="type" data-value="pasta">Pasta</button>
+        </div>
+
+        <!-- Protein Filters -->
+        <div class="filter-group">
+            <button class="filter-button" data-filter="protein" data-value="meat">Meat</button>
+            <button class="filter-button" data-filter="protein" data-value="fish">Fish</button>
+            <button class="filter-button" data-filter="protein" data-value="veg">Veg</button>
+        </div>
+
+        <!-- Effort Filters -->
+        <div class="filter-group">
+            <button class="filter-button" data-filter="effort" data-value="weeknight">Weeknight</button>
+            <button class="filter-button" data-filter="effort" data-value="weekend">Weekend</button>
+        </div>
+
+        <!-- Emoji/Vibe Filters -->
+        <div class="filter-group" id="emoji-filters">
+            <!-- Will be populated dynamically -->
+        </div>
+    </div>
+
+    <!-- Recipe Detail (shown when a recipe is clicked) -->
+    <div class="recipe-detail" id="recipe-detail">
+        <button class="close-button" onclick="closeRecipe()">← Back to list</button>
+        <div id="recipe-content"></div>
+    </div>
+
+    <!-- Recipe Count -->
+    <div class="recipe-count" id="recipe-count"></div>
+
+    <!-- Recipe List -->
+    <div class="loading" id="loading">Loading recipes...</div>
+    <ul class="recipe-list" id="recipe-list"></ul>
+    <div class="empty" id="empty" style="display: none;">No recipes match your filters</div>
+
+    <script>
+        // State
+        let allRecipes = [];
+        let activeFilters = {
+            type: new Set(),
+            protein: new Set(),
+            effort: new Set(),
+            vibes: new Set()
+        };
+
+        // Load and parse all recipes
+        async function loadRecipes() {
+            try {
+                // Get list of recipe files from the recipes directory
+                // This works on GitHub Pages by fetching the directory listing
+                const response = await fetch('recipes/');
+                const html = await response.text();
+                
+                // Parse HTML to extract .md file links
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                const links = Array.from(doc.querySelectorAll('a'))
+                    .map(a => a.getAttribute('href'))
+                    .filter(href => href && href.endsWith('.md'));
+
+                // Fetch and parse each recipe
+                const recipePromises = links.map(async (filename) => {
+                    const response = await fetch(`recipes/${filename}`);
+                    const text = await response.text();
+                    return parseRecipe(text, filename);
+                });
+
+                allRecipes = await Promise.all(recipePromises);
+                
+                // Extract all unique emoji/vibes
+                const allVibes = new Set();
+                allRecipes.forEach(recipe => {
+                    if (recipe.vibes) {
+                        recipe.vibes.forEach(vibe => allVibes.add(vibe));
+                    }
+                });
+
+                // Create emoji filter buttons
+                const emojiContainer = document.getElementById('emoji-filters');
+                Array.from(allVibes).sort().forEach(emoji => {
+                    const button = document.createElement('button');
+                    button.className = 'filter-button emoji';
+                    button.dataset.filter = 'vibes';
+                    button.dataset.value = emoji;
+                    button.textContent = emoji;
+                    emojiContainer.appendChild(button);
+                });
+
+                // Hide loading, show recipes
+                document.getElementById('loading').style.display = 'none';
+                renderRecipes();
+                
+            } catch (error) {
+                console.error('Error loading recipes:', error);
+                document.getElementById('loading').textContent = 'Error loading recipes. Make sure the recipes folder exists.';
+            }
+        }
+
+        // Parse markdown recipe file
+        function parseRecipe(markdown, filename) {
+            const recipe = {
+                filename: filename,
+                title: '',
+                type: null,
+                protein: null,
+                effort: null,
+                vibes: [],
+                content: markdown
+            };
+
+            // Extract frontmatter
+            const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---/);
+            if (frontmatterMatch) {
+                const frontmatter = frontmatterMatch[1];
+                
+                // Parse title
+                const titleMatch = frontmatter.match(/title:\s*(.+)/);
+                if (titleMatch) recipe.title = titleMatch[1].trim();
+
+                // Parse type
+                const typeMatch = frontmatter.match(/type:\s*(.+)/);
+                if (typeMatch) recipe.type = typeMatch[1].trim();
+
+                // Parse protein
+                const proteinMatch = frontmatter.match(/protein:\s*(.+)/);
+                if (proteinMatch) {
+                    const protein = proteinMatch[1].trim();
+                    // Map to filter values
+                    if (protein === 'meat') recipe.protein = 'meat';
+                    else if (protein === 'pescatarian') recipe.protein = 'fish';
+                    else if (protein === 'vegetarian') recipe.protein = 'veg';
+                }
+
+                // Parse effort
+                const effortMatch = frontmatter.match(/effort:\s*(.+)/);
+                if (effortMatch) recipe.effort = effortMatch[1].trim();
+
+                // Parse vibes (emoji)
+                const vibesMatch = frontmatter.match(/vibes:\s*(.+)/);
+                if (vibesMatch) {
+                    recipe.vibes = vibesMatch[1].split(',').map(v => v.trim());
+                }
+
+                // Extract time and serves for display
+                const contentAfterFrontmatter = markdown.substring(frontmatterMatch[0].length);
+                const totalMatch = contentAfterFrontmatter.match(/\*\*Total:\*\*\s*(.+)/);
+                const servesMatch = contentAfterFrontmatter.match(/\*\*Serves:\*\*\s*(.+)/);
+                
+                recipe.totalTime = totalMatch ? totalMatch[1].trim() : null;
+                recipe.serves = servesMatch ? servesMatch[1].trim() : null;
+            }
+
+            return recipe;
+        }
+
+        // Check if recipe matches active filters
+        function matchesFilters(recipe) {
+            // If no filters active, show all
+            if (activeFilters.type.size === 0 && 
+                activeFilters.protein.size === 0 && 
+                activeFilters.effort.size === 0 && 
+                activeFilters.vibes.size === 0) {
+                return true;
+            }
+
+            // Check type filter (if active)
+            if (activeFilters.type.size > 0) {
+                if (activeFilters.type.has('anything')) {
+                    // "Anything" shows all types
+                } else if (!recipe.type || !activeFilters.type.has(recipe.type)) {
+                    return false;
+                }
+            }
+
+            // Check protein filter (if active)
+            if (activeFilters.protein.size > 0) {
+                if (!recipe.protein || !activeFilters.protein.has(recipe.protein)) {
+                    return false;
+                }
+            }
+
+            // Check effort filter (if active)
+            if (activeFilters.effort.size > 0) {
+                if (!recipe.effort || !activeFilters.effort.has(recipe.effort)) {
+                    return false;
+                }
+            }
+
+            // Check vibes filter (if active)
+            if (activeFilters.vibes.size > 0) {
+                const hasMatchingVibe = Array.from(activeFilters.vibes).some(vibe => 
+                    recipe.vibes.includes(vibe)
+                );
+                if (!hasMatchingVibe) {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        // Render recipe list
+        function renderRecipes() {
+            const listElement = document.getElementById('recipe-list');
+            const countElement = document.getElementById('recipe-count');
+            const emptyElement = document.getElementById('empty');
+
+            // Filter recipes
+            const filteredRecipes = allRecipes.filter(matchesFilters);
+
+            // Update count
+            countElement.textContent = `${filteredRecipes.length} recipe${filteredRecipes.length !== 1 ? 's' : ''}`;
+
+            // Show/hide empty state
+            if (filteredRecipes.length === 0) {
+                listElement.style.display = 'none';
+                emptyElement.style.display = 'block';
+                return;
+            } else {
+                listElement.style.display = 'block';
+                emptyElement.style.display = 'none';
+            }
+
+            // Render list
+            listElement.innerHTML = filteredRecipes
+                .sort((a, b) => a.title.localeCompare(b.title))
+                .map(recipe => {
+                    const meta = [];
+                    if (recipe.protein) {
+                        const proteinLabel = recipe.protein === 'fish' ? 'Fish' : 
+                                           recipe.protein === 'veg' ? 'Veg' : 'Meat';
+                        meta.push(proteinLabel);
+                    }
+                    if (recipe.totalTime) meta.push(recipe.totalTime + ' mins');
+                    if (recipe.serves) meta.push(recipe.serves + ' serves');
+
+                    return `
+                        <li class="recipe-item" onclick="showRecipe('${recipe.filename}')">
+                            <div class="recipe-title">${recipe.title}</div>
+                            <div class="recipe-meta">${meta.map(m => `<span>${m}</span>`).join('')}</div>
+                        </li>
+                    `;
+                }).join('');
+        }
+
+        // Show recipe detail
+        function showRecipe(filename) {
+            const recipe = allRecipes.find(r => r.filename === filename);
+            if (!recipe) return;
+
+            // Convert markdown to HTML (basic conversion)
+            let html = recipe.content;
+            
+            // Remove frontmatter
+            html = html.replace(/^---\n[\s\S]*?\n---\n/, '');
+            
+            // Convert headers
+            html = html.replace(/### (.+)/g, '<h3>$1</h3>');
+            html = html.replace(/## (.+)/g, '<h3>$1</h3>');
+            
+            // Convert bold
+            html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+            
+            // Convert links
+            html = html.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank">$1</a>');
+            
+            // Convert lists (basic)
+            html = html.replace(/^- (.+)$/gm, '• $1<br>');
+            html = html.replace(/^\d+\.\s+(.+)$/gm, '$&<br>');
+            
+            // Convert line breaks
+            html = html.replace(/\n\n/g, '</p><p>');
+            html = '<p>' + html + '</p>';
+
+            // Show detail view
+            document.getElementById('recipe-content').innerHTML = html;
+            document.getElementById('recipe-detail').classList.add('visible');
+            
+            // Scroll to top
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Close recipe detail
+        function closeRecipe() {
+            document.getElementById('recipe-detail').classList.remove('visible');
+        }
+
+        // Handle filter button clicks
+        document.addEventListener('click', (e) => {
+            if (e.target.classList.contains('filter-button')) {
+                const button = e.target;
+                const filterType = button.dataset.filter;
+                const filterValue = button.dataset.value;
+
+                // Toggle filter
+                if (button.classList.contains('active')) {
+                    button.classList.remove('active');
+                    activeFilters[filterType].delete(filterValue);
+                } else {
+                    button.classList.add('active');
+                    activeFilters[filterType].add(filterValue);
+                }
+
+                // Re-render recipes
+                renderRecipes();
+            }
+        });
+
+        // Load recipes on page load
+        loadRecipes();
+    </script>
+</body>
+</html>
