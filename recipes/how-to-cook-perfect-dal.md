@@ -1,5 +1,5 @@
 ---
-title: How to cook perfect dal
+title: Dal
 type: main
 protein: vegetarian
 vibes: 🌎
