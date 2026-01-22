@@ -1,5 +1,5 @@
 ---
-title: Super quick Baklava
+title: 🍰 Super quick Baklava
 type: dessert
 protein: vegetarian
 effort: weeknight

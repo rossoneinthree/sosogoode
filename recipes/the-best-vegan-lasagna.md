@@ -1,5 +1,5 @@
 ---
-title: The Best Vegan Lasagna
+title: 🧀 The Best Vegan Lasagna
 type: main
 protein: vegetarian
 ---

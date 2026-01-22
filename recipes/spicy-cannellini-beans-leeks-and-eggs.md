@@ -1,5 +1,5 @@
 ---
-title: spicy cannellini beans, leeks and eggs
+title: 🫘 spicy cannellini beans, leeks and eggs
 type: breakfast
 protein: vegetarian
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Vesuvio with Prawns, Tomato and White Wine
+title: 🦐 Vesuvio with Prawns, Tomato and White Wine
 type: pasta
 protein: pescatarian
 effort: weeknight

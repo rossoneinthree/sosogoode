@@ -1,5 +1,5 @@
 ---
-title: Triple-cooked chips
+title: 🥔 Triple-cooked chips
 type: side
 protein: vegetarian
 effort: weekend

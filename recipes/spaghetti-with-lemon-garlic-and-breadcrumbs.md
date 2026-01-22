@@ -1,5 +1,5 @@
 ---
-title: Spaghetti With Lemon, Garlic and Breadcrumbs
+title: pasta🍝 Spaghetti With Lemon, Garlic and Breadcrumbs
 type: main
 protein: vegetarian
 effort: weeknight

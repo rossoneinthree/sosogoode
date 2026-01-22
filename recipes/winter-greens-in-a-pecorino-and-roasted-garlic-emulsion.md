@@ -1,5 +1,5 @@
 ---
-title: Winter greens in a pecorino and roasted garlic emulsion
+title: 🧀 Winter greens in a pecorino and roasted garlic emulsion
 protein: vegetarian
 vibes: 🌎
 ---

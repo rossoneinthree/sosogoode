@@ -1,5 +1,5 @@
 ---
-title: Smoked Chowder
+title: 🐟 Smoked Chowder
 type: main
 protein: pescatarian
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Sous Vide Shrimp With Garlic, Sherry, and Smoked Paprika Recipe
+title: 🦐 Sous Vide Shrimp With Garlic, Sherry, and Smoked Paprika Recipe
 protein: pescatarian
 effort: weeknight
 vibes: 🌎

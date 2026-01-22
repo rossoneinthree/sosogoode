@@ -1,5 +1,5 @@
 ---
-title: Sticky Asian Chicken Thighs
+title: 🐔 Sticky Asian Chicken Thighs
 protein: meat
 effort: weeknight
 vibes: 🌎

@@ -1,5 +1,5 @@
 ---
-title: Tinga Tostadas
+title: 🐔 Tinga Tostadas
 type: main
 protein: meat
 ---

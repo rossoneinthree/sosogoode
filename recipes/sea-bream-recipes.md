@@ -1,5 +1,5 @@
 ---
-title: Sea bream recipes
+title: 🐟 Sea bream recipes
 protein: pescatarian
 vibes: 🌎
 ---

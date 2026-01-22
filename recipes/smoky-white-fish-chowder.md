@@ -1,7 +1,7 @@
 ---
-title: smoky white fish chowder
+title: 🐟 smoky white fish chowder
 type: main
-protein: vegetarian
+protein: meat
 effort: weeknight
 ---
 

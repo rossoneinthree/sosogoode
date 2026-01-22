@@ -1,5 +1,5 @@
 ---
-title: Watermelon Salad with Feta, Cucumber, and Mint
+title: 🥗 Watermelon Salad with Feta, Cucumber, and Mint
 type: salad
 protein: vegetarian
 vibes: 🌎

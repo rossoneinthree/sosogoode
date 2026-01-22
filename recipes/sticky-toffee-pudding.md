@@ -1,5 +1,5 @@
 ---
-title: sticky toffee pudding
+title: 🍰 sticky toffee pudding
 type: dessert
 protein: vegetarian
 effort: weekend

@@ -1,5 +1,5 @@
 ---
-title: Siamese Laksa (Penang Laksa Lemak)
+title: 🐟 Siamese Laksa (Penang Laksa Lemak)
 type: starter
 protein: pescatarian
 vibes: 🌶️

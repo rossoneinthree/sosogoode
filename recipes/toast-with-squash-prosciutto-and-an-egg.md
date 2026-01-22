@@ -1,5 +1,5 @@
 ---
-title: toast with squash, prosciutto, and an egg
+title: 🥚 toast with squash, prosciutto, and an egg
 type: breakfast
 protein: meat
 effort: weeknight

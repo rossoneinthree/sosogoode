@@ -1,5 +1,5 @@
 ---
-title: The best spaghetti bolognese recipe
+title: 🍝🐷 The best spaghetti bolognese recipe
 type: main
 protein: meat
 ---

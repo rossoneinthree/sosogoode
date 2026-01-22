@@ -1,5 +1,5 @@
 ---
-title: This 3-Ingredient Italian Pasta Is Irresistibly Creamy — Without a Drop of Cream
+title: 🍝 This 3-Ingredient Italian Pasta Is Irresistibly Creamy — Without a Drop of Cream
 type: main
 protein: vegetarian
 vibes: 🌎

@@ -1,5 +1,5 @@
 ---
-title: Sea bream with a courgette salad with fresh mint and rocket recipe
+title: 🐟 Sea bream with a courgette salad with fresh mint and rocket recipe
 type: main
 protein: pescatarian
 effort: weekend

@@ -1,5 +1,5 @@
 ---
-title: Sicilian Prawns with breadcrumbs almond & lemon
+title: 🦐 Sicilian Prawns with breadcrumbs almond & lemon
 type: starter
 protein: pescatarian
 effort: weeknight

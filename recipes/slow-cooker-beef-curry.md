@@ -1,5 +1,5 @@
 ---
-title: Slow-cooker beef curry
+title: 🐄 Slow-cooker beef curry
 type: main
 protein: meat
 effort: weekend

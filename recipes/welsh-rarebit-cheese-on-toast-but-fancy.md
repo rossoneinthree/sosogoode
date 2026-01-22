@@ -1,5 +1,5 @@
 ---
-title: Welsh Rarebit - cheese on toast but fancy
+title: 🧀 Welsh Rarebit - cheese on toast but fancy
 type: breakfast
 protein: vegetarian
 effort: weeknight

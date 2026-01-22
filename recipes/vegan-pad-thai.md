@@ -1,7 +1,7 @@
 ---
-title: vegan pad thai
+title: 🍜 vegan pad thai
 type: main
-protein: vegetarian
+protein: meat
 effort: weeknight
 vibes: 🧂,🫚,🥗,🍄,🍋
 ---

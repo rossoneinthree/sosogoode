@@ -1,5 +1,5 @@
 ---
-title: Swiss Crisp Breads
+title:  Swiss Crisp Breads
 type: snack
 protein: vegetarian
 effort: weeknight

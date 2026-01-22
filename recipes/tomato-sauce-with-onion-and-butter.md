@@ -1,5 +1,5 @@
 ---
-title: Tomato Sauce with Onion and Butter
+title: 🍅 Tomato Sauce with Onion and Butter
 type: main
 protein: vegetarian
 effort: weeknight

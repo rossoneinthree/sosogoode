@@ -1,5 +1,5 @@
 ---
-title: Slow cooker ratatouille
+title: 🍅 Slow cooker ratatouille
 type: main
 protein: vegetarian
 vibes: 🌎

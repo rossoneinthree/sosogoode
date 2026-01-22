@@ -1,5 +1,5 @@
 ---
-title: Slow-Roasted Crispy Pork Belly
+title: 🐷 Slow-Roasted Crispy Pork Belly
 type: main
 protein: meat
 effort: weekend

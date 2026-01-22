@@ -1,5 +1,5 @@
 ---
-title: Slow-cooked Lamb Shoulder with Fig and Pistachio Salsa
+title: 🐑 Slow-cooked Lamb Shoulder with Fig and Pistachio Salsa
 type: main
 protein: meat
 effort: weekend

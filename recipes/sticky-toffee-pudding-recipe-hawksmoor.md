@@ -1,5 +1,5 @@
 ---
-title: Sticky Toffee Pudding Recipe | Hawksmoor
+title: 🍰 Sticky Toffee Pudding Recipe | Hawksmoor
 type: dessert
 protein: vegetarian
 vibes: 🌎

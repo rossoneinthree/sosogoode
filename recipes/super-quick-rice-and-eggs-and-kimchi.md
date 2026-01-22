@@ -1,5 +1,5 @@
 ---
-title: super quick rice and eggs and kimchi
+title: 🍛 super quick rice and eggs and kimchi
 type: main
 protein: vegetarian
 effort: weeknight

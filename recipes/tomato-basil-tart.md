@@ -1,5 +1,5 @@
 ---
-title: Tomato Basil Tart
+title: 🍅 Tomato Basil Tart
 type: main
 protein: vegetarian
 vibes: 🌎

@@ -1,5 +1,5 @@
 ---
-title: SōGoode easter bun & butter pudding
+title: 🍫 SōGoode easter bun & butter pudding
 type: dessert
 protein: vegetarian
 effort: weeknight

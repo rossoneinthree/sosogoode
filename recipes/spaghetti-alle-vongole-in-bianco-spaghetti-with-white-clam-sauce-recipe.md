@@ -1,5 +1,5 @@
 ---
-title: Spaghetti Alle Vongole in Bianco (Spaghetti With White Clam Sauce) Recipe
+title: 🍝🐟 Spaghetti Alle Vongole in Bianco (Spaghetti With White Clam Sauce) Recipe
 type: pasta
 protein: pescatarian
 effort: weekend

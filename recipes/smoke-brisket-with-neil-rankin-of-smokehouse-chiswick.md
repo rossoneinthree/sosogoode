@@ -1,5 +1,5 @@
 ---
-title: Smoke brisket with Neil Rankin of Smokehouse Chiswick
+title: 🐄 Smoke brisket with Neil Rankin of Smokehouse Chiswick
 protein: meat
 effort: weekend
 vibes: 🌎

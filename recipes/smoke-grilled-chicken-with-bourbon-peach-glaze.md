@@ -1,5 +1,5 @@
 ---
-title: Smoke-Grilled Chicken with Bourbon Peach Glaze
+title: 🐔 Smoke-Grilled Chicken with Bourbon Peach Glaze
 type: main
 protein: meat
 vibes: 🌎

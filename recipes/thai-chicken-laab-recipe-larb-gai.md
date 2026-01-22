@@ -1,5 +1,5 @@
 ---
-title: Thai Chicken Laab Recipe (Larb Gai)
+title: 🐔 Thai Chicken Laab Recipe (Larb Gai)
 type: main
 protein: meat
 ---

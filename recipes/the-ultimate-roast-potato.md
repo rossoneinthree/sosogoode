@@ -1,5 +1,5 @@
 ---
-title: the ultimate roast potato
+title: 🥔 the ultimate roast potato
 type: side
 protein: vegetarian
 effort: weeknight

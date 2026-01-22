@@ -1,5 +1,5 @@
 ---
-title: shakshuka
+title: 🍅 shakshuka
 type: breakfast
 protein: vegetarian
 effort: weeknight
