@@ -382,18 +382,34 @@
                 const files = await response.json();
                 const recipeFiles = files
                     .filter(file => file.name.endsWith('.md'))
-                    .map(file => file.name);
+                    .map(file => ({
+                        name: file.name,
+                        sha: file.sha
+                    }));
 
-                // Fetch and parse each recipe
-                const recipePromises = recipeFiles.map(async (filename) => {
+                // Fetch and parse each recipe with commit date
+                const recipePromises = recipeFiles.map(async (file) => {
                     try {
-                        // Use full GitHub Pages URL
-                        const response = await fetch(`https://rossoneinthree.github.io/sosogoode/recipes/${filename}`);
-                        if (!response.ok) throw new Error(`Failed to load ${filename}`);
+                        // Fetch recipe content
+                        const response = await fetch(`https://rossoneinthree.github.io/sosogoode/recipes/${file.name}`);
+                        if (!response.ok) throw new Error(`Failed to load ${file.name}`);
                         const text = await response.text();
-                        return parseRecipe(text, filename);
+                        
+                        // Fetch commit info for date added
+                        const commitsResponse = await fetch(`https://api.github.com/repos/rossoneinthree/sosogoode/commits?path=recipes/${file.name}&per_page=1`);
+                        let dateAdded = null;
+                        if (commitsResponse.ok) {
+                            const commits = await commitsResponse.json();
+                            if (commits.length > 0) {
+                                dateAdded = new Date(commits[0].commit.author.date);
+                            }
+                        }
+                        
+                        const recipe = parseRecipe(text, file.name);
+                        recipe.dateAdded = dateAdded;
+                        return recipe;
                     } catch (error) {
-                        console.error(`Error loading ${filename}:`, error);
+                        console.error(`Error loading ${file.name}:`, error);
                         return null;
                     }
                 });
@@ -539,9 +555,13 @@
             // Sort recipes based on current sort mode
             let sortedRecipes;
             if (currentSort === 'date') {
-                // Sort by filename (GitHub returns files in order they were added)
-                // Reverse to show newest first
-                sortedRecipes = [...filteredRecipes].reverse();
+                // Sort by date added (most recent first)
+                sortedRecipes = [...filteredRecipes].sort((a, b) => {
+                    if (!a.dateAdded && !b.dateAdded) return 0;
+                    if (!a.dateAdded) return 1;
+                    if (!b.dateAdded) return -1;
+                    return b.dateAdded - a.dateAdded; // Newest first
+                });
             } else {
                 // Sort alphabetically by title
                 sortedRecipes = [...filteredRecipes].sort((a, b) => a.title.localeCompare(b.title));
