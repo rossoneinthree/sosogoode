@@ -1,5 +1,5 @@
 ---
-title: Asparagus, fried egg on toast with parmesan
+title: 🥚 Asparagus, fried egg on toast with parmesan
 type: breakfast
 protein: vegetarian
 effort: weeknight

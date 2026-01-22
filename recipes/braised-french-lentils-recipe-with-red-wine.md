@@ -1,5 +1,5 @@
 ---
-title: Braised French Lentils Recipe with Red Wine
+title: 🍅 Braised French Lentils Recipe with Red Wine
 type: main
 protein: vegetarian
 vibes: 🌎

@@ -1,5 +1,5 @@
 ---
-title: Easy Teriyaki Chicken {with Sticky Sauce}
+title: 🐔 Easy Teriyaki Chicken {with Sticky Sauce}
 type: main
 protein: meat
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Beet Bourguignon — Green Kitchen Stories
+title:  Beet Bourguignon — Green Kitchen Stories
 type: main
 protein: vegetarian
 vibes: 🌎

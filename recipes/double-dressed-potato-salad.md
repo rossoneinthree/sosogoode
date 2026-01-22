@@ -1,5 +1,5 @@
 ---
-title: Double dressed potato salad
+title: 🥔 Double dressed potato salad
 type: salad
 protein: vegetarian
 effort: weeknight

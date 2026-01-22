@@ -1,5 +1,5 @@
 ---
-title: Goats cheese, pea and lentil salad with pesto.
+title: 🥗 Goats cheese, pea and lentil salad with pesto.
 type: salad
 protein: vegetarian
 vibes: 🌎

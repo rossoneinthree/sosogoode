@@ -1,5 +1,5 @@
 ---
-title: Boeuf en daube provençale
+title: 🐄 Boeuf en daube provençale
 type: main
 protein: meat
 ---

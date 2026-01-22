@@ -1,5 +1,5 @@
 ---
-title: Arugula-and-Squash Salad Recipe
+title: 🥗 Arugula-and-Squash Salad Recipe
 type: salad
 protein: vegetarian
 vibes: 🌎

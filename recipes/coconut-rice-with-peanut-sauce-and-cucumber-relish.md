@@ -1,5 +1,5 @@
 ---
-title: Coconut Rice with Peanut Sauce and Cucumber Relish
+title: 🍛 Coconut Rice with Peanut Sauce and Cucumber Relish
 protein: vegetarian
 effort: weeknight
 vibes: 🌎

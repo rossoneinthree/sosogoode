@@ -1,5 +1,5 @@
 ---
-title: butterscotch pot de creme
+title: 🍰 butterscotch pot de creme
 type: dessert
 protein: vegetarian
 effort: weekend

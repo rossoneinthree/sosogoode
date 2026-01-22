@@ -1,5 +1,5 @@
 ---
-title: Fallow Cottage Pie with Duchesse Potatoes
+title: 🥩 Fallow Cottage Pie with Duchesse Potatoes
 type: main
 protein: meat
 effort: weekend

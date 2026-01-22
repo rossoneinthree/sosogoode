@@ -1,5 +1,5 @@
 ---
-title: Gratin Dauphinois
+title: 🥔 Gratin Dauphinois
 type: side
 protein: vegetarian
 effort: weekend

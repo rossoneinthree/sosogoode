@@ -1,5 +1,5 @@
 ---
-title: Assassin Pasta with Shellfish Stock, Garlic & Semi-Dried Tomato
+title: 🦐 Assassin Pasta with Shellfish Stock, Garlic & Semi-Dried Tomato
 type: main
 protein: pescatarian
 effort: weeknight

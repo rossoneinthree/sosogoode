@@ -1,5 +1,5 @@
 ---
-title: Glazed Pork Belly Recipe
+title: 🐷 Glazed Pork Belly Recipe
 type: main
 protein: meat
 vibes: 🌎

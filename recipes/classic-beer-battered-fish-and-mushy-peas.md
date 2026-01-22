@@ -1,5 +1,5 @@
 ---
-title: Classic Beer Battered Fish and Mushy Peas
+title: 🐟 Classic Beer Battered Fish and Mushy Peas
 type: main
 protein: pescatarian
 ---

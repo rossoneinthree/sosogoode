@@ -1,5 +1,5 @@
 ---
-title: Cod en papillote with spicy olive sauce recipe
+title: 🐟 Cod en papillote with spicy olive sauce recipe
 type: main
 protein: pescatarian
 vibes: 🌎

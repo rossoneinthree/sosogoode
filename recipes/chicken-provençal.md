@@ -1,5 +1,5 @@
 ---
-title: Chicken Provençal
+title: 🐔 Chicken Provençal
 type: main
 protein: meat
 effort: weekend

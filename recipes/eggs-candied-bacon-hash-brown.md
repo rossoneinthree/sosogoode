@@ -1,5 +1,5 @@
 ---
-title: eggs, candied bacon, hash brown
+title: 🐷 eggs, candied bacon, hash brown
 type: breakfast
 protein: meat
 effort: weeknight

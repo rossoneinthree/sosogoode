@@ -1,5 +1,5 @@
 ---
-title: Banoffee Pie
+title: 🍫 Banoffee Pie
 protein: vegetarian
 effort: weeknight
 vibes: 🍬,🥔

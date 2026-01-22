@@ -1,5 +1,5 @@
 ---
-title: Georgina Hayden’s recipe for spring onion flatbreads with smoked salmon
+title: 🐟 Georgina Hayden’s recipe for spring onion flatbreads with smoked salmon
 protein: pescatarian
 effort: weeknight
 vibes: 🌎

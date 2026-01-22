@@ -1,5 +1,5 @@
 ---
-title: fig and mascarpone cake
+title: 🍰 fig and mascarpone cake
 type: dessert
 protein: vegetarian
 effort: weeknight

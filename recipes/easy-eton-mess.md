@@ -1,5 +1,5 @@
 ---
-title: Easy Eton mess
+title: 🍰 Easy Eton mess
 type: dessert
 protein: vegetarian
 effort: weeknight

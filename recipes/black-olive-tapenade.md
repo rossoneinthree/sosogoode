@@ -1,5 +1,5 @@
 ---
-title: Black olive tapenade
+title: 🫒 Black olive tapenade
 protein: pescatarian
 ---
 

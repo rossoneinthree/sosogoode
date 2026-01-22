@@ -1,5 +1,5 @@
 ---
-title: Anchovy and sage fritters | Gourmet Traveller
+title: 🐟 Anchovy and sage fritters | Gourmet Traveller
 type: snack
 protein: pescatarian
 vibes: 🌎

@@ -1,5 +1,5 @@
 ---
-title: Classic Roast chicken by Simon Hopkinson
+title: 🐔 Classic Roast chicken by Simon Hopkinson
 protein: meat
 effort: weekend
 vibes: 🌎

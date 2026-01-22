@@ -1,5 +1,5 @@
 ---
-title: eton mess
+title: 🍰 eton mess
 type: dessert
 protein: vegetarian
 effort: weekend

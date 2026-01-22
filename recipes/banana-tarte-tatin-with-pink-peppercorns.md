@@ -1,5 +1,5 @@
 ---
-title: banana tarte tatin with pink peppercorns
+title: 🍰 banana tarte tatin with pink peppercorns
 type: dessert
 protein: vegetarian
 effort: weeknight

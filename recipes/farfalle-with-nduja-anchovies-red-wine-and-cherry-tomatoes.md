@@ -1,5 +1,5 @@
 ---
-title: Farfalle with ’nduja, anchovies, red wine and cherry tomatoes
+title: 🍝🐟 Farfalle with ’nduja, anchovies, red wine and cherry tomatoes
 type: pasta
 protein: meat
 effort: weeknight

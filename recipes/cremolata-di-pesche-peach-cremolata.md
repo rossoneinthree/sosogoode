@@ -1,5 +1,5 @@
 ---
-title: Cremolata di pesche (Peach Cremolata)
+title: 🍰 Cremolata di pesche (Peach Cremolata)
 type: dessert
 protein: vegetarian
 vibes: 🌎

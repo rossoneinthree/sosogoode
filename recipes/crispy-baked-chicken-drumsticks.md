@@ -1,5 +1,5 @@
 ---
-title: Crispy Baked Chicken Drumsticks
+title: 🐔 Crispy Baked Chicken Drumsticks
 protein: meat
 effort: weeknight
 vibes: 🌎

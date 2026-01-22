@@ -1,5 +1,5 @@
 ---
-title: Black Cod with Miso Recipe
+title: 🐟 Black Cod with Miso Recipe
 protein: pescatarian
 vibes: 🌎
 ---

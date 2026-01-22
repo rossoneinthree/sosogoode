@@ -1,5 +1,5 @@
 ---
-title: avocado, kimchi, cheddar toastie
+title: 🥑🧀 avocado, kimchi, cheddar toastie
 type: snack
 protein: vegetarian
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Easy No Fail Melting Potatoes • Olive & Mango
+title: 🥔 Easy No Fail Melting Potatoes • Olive & Mango
 type: side
 protein: vegetarian
 vibes: 🌎

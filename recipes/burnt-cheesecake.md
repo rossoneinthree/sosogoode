@@ -1,5 +1,5 @@
 ---
-title: Burnt Cheesecake
+title: 🍰 Burnt Cheesecake
 type: dessert
 protein: vegetarian
 effort: weekend

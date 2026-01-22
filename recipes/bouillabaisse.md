@@ -1,5 +1,5 @@
 ---
-title: Bouillabaisse
+title: 🦐 Bouillabaisse
 type: main
 protein: pescatarian
 ---

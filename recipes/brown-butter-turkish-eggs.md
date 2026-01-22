@@ -1,5 +1,5 @@
 ---
-title: Brown Butter Turkish Eggs
+title: 🥚 Brown Butter Turkish Eggs
 type: breakfast
 protein: vegetarian
 effort: weeknight

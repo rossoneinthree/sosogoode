@@ -1,5 +1,5 @@
 ---
-title: Chicken Asado Recipe (Pollo Asado)
+title: 🐔 Chicken Asado Recipe (Pollo Asado)
 protein: meat
 effort: weekend
 vibes: 🌎

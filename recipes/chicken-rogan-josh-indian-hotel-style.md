@@ -1,5 +1,5 @@
 ---
-title: Chicken Rogan Josh – (curry) Indian Hotel Style
+title: 🐔 Chicken Rogan Josh – (curry) Indian Hotel Style
 type: main
 protein: meat
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Greek-style braised lamb shoulder II
+title: 🐑 Greek-style braised lamb shoulder
 type: main
 protein: meat
 effort: weekend

@@ -1,5 +1,5 @@
 ---
-title: Butterflies leg of lamb.
+title: 🐑 Butterflies leg of lamb.
 type: main
 protein: meat
 ---

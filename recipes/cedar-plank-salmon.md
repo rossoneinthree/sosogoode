@@ -1,5 +1,5 @@
 ---
-title: Cedar-Plank Salmon
+title: 🐟 Cedar-Plank Salmon
 protein: pescatarian
 vibes: 🌎
 ---

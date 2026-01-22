@@ -1,5 +1,5 @@
 ---
-title: Classic homemade coleslaw
+title: 🥗 Classic homemade coleslaw
 type: side
 protein: vegetarian
 ---

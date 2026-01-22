@@ -1,5 +1,5 @@
 ---
-title: dense bean salad
+title: 🥗 dense bean salad
 type: salad
 protein: vegetarian
 effort: weeknight

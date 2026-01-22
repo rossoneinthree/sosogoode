@@ -1,5 +1,5 @@
 ---
-title: Anchovy paste (Anchoïade) | Magimix Recipe
+title: 🐟 Anchovy paste (Anchoïade) | Magimix Recipe
 type: snack
 protein: pescatarian
 vibes: 🌎

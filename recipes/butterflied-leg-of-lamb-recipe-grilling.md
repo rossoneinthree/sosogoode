@@ -1,5 +1,5 @@
 ---
-title: Butterflied Leg of Lamb Recipe | Grilling
+title: 🐑 Butterflied Leg of Lamb Recipe | Grilling
 type: main
 protein: meat
 effort: weekend

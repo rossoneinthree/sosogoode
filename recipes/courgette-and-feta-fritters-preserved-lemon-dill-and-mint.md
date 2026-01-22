@@ -1,5 +1,5 @@
 ---
-title: Courgette and feta fritters, preserved lemon, dill and mint
+title:  Courgette and feta fritters, preserved lemon, dill and mint
 type: main
 protein: vegetarian
 vibes: 🌎

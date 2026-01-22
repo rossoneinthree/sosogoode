@@ -1,5 +1,5 @@
 ---
-title: easy roast pork shoulder
+title: 🐷 easy roast pork shoulder
 type: main
 protein: meat
 effort: weekend

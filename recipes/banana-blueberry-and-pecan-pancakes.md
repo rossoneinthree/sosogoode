@@ -1,5 +1,5 @@
 ---
-title: banana, blueberry and pecan pancakes
+title: 🍰 banana, blueberry and pecan pancakes
 type: breakfast
 protein: vegetarian
 effort: weeknight

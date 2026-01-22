@@ -1,5 +1,5 @@
 ---
-title: Baked sea bream Rota-style recipe
+title: 🐟 Baked sea bream Rota-style recipe
 type: main
 protein: pescatarian
 effort: weekend

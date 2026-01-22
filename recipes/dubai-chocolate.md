@@ -1,5 +1,5 @@
 ---
-title: Dubai chocolate
+title: 🍫 Dubai chocolate
 type: snack
 protein: vegetarian
 effort: weekend

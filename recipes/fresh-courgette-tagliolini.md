@@ -1,6 +1,6 @@
 ---
-title: fresh courgette tagliolini
-type: pasta
+title: 🌿 fresh courgette tagliolini
+type: main
 protein: vegetarian
 effort: weeknight
 vibes: 🥗,🌶️,🍋

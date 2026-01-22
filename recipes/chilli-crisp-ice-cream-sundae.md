@@ -1,5 +1,5 @@
 ---
-title: Chilli Crisp Ice Cream Sundae
+title: 🍰 Chilli Crisp Ice Cream Sundae
 type: dessert
 protein: vegetarian
 effort: weeknight

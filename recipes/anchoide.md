@@ -1,5 +1,5 @@
 ---
-title: Anchoide
+title: 🐟 Anchoide
 type: side
 protein: pescatarian
 effort: weeknight

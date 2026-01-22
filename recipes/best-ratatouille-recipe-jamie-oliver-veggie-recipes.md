@@ -1,5 +1,5 @@
 ---
-title: Best ratatouille recipe | Jamie Oliver veggie recipes
+title: 🍆 Best ratatouille recipe | Jamie Oliver veggie recipes
 type: main
 protein: vegetarian
 effort: weekend

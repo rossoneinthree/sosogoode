@@ -1,5 +1,5 @@
 ---
-title: beef stew with pale ale, juniper and prunes
+title: 🐄 beef stew with pale ale, juniper and prunes
 type: main
 protein: meat
 effort: weekend

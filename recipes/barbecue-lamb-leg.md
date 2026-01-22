@@ -1,5 +1,5 @@
 ---
-title: Barbecue lamb leg
+title: 🐑 Barbecue lamb leg
 type: main
 protein: meat
 ---

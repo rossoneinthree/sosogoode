@@ -1,5 +1,5 @@
 ---
-title: caesar salad
+title: 🥗 caesar salad
 type: salad
 protein: pescatarian
 effort: weeknight

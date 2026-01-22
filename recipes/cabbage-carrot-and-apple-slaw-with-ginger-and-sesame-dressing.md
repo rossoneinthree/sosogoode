@@ -1,5 +1,5 @@
 ---
-title: Cabbage, carrot and apple slaw
+title: 🥕 Cabbage, carrot and apple slaw
 with ginger and sesame dressing
 type: salad
 protein: vegetarian

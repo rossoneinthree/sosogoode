@@ -1,5 +1,5 @@
 ---
-title: baked feta pasta
+title: 🍝 baked feta pasta
 type: main
 protein: vegetarian
 effort: weeknight

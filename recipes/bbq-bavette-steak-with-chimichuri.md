@@ -1,5 +1,5 @@
 ---
-title: BBQ bavette steak with chimichuri
+title: 🥩 BBQ bavette steak with chimichuri
 type: main
 protein: meat
 effort: weeknight

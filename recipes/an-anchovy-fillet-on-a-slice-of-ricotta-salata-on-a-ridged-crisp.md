@@ -1,5 +1,5 @@
 ---
-title: an anchovy fillet, on a slice of ricotta salata, on a ridged crisp.
+title: 🐟 an anchovy fillet, on a slice of ricotta salata, on a ridged crisp.
 protein: pescatarian
 effort: weeknight
 vibes: 🧂

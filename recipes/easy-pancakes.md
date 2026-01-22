@@ -1,5 +1,5 @@
 ---
-title: Easy pancakes
+title: 🍰 Easy pancakes
 type: breakfast
 protein: vegetarian
 ---

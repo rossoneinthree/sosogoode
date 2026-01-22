@@ -1,5 +1,5 @@
 ---
-title: Easy Chocolate Pots de Crème
+title: 🍫 Easy Chocolate Pots de Crème
 type: dessert
 protein: vegetarian
 ---

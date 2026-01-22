@@ -1,5 +1,5 @@
 ---
-title: Gordon Ramsay’s pan-fried duck breast is delicious
+title: 🦆 Gordon Ramsay’s pan-fried duck breast is delicious
 type: main
 protein: meat
 vibes: 🌎

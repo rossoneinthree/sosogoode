@@ -1,5 +1,5 @@
 ---
-title: Dutch Baby
+title: 🍰 Dutch Baby
 type: breakfast
 protein: vegetarian
 effort: weeknight

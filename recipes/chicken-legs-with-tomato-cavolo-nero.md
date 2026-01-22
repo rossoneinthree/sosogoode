@@ -1,5 +1,5 @@
 ---
-title: chicken legs with tomato & cavolo nero
+title: 🐓 chicken legs with tomato & cavolo nero
 type: main
 protein: meat
 effort: weeknight

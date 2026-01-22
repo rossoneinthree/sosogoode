@@ -1,5 +1,5 @@
 ---
-title: Family-friendly curry sauce
+title:  Family-friendly curry sauce
 protein: vegetarian
 ---
 

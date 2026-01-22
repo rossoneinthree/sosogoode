@@ -1,5 +1,5 @@
 ---
-title: Beer can chicken recipe | Jamie Oliver recipes
+title: 🐔 Beer can chicken recipe | Jamie Oliver recipes
 type: main
 protein: meat
 effort: weekend

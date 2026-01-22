@@ -1,5 +1,5 @@
 ---
-title: boulangere potatoes
+title: 🥔 boulangere potatoes
 type: side
 protein: vegetarian
 effort: weeknight

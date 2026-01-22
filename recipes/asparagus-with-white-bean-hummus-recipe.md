@@ -1,5 +1,5 @@
 ---
-title: Asparagus with White Bean Hummus Recipe
+title: 🥗 Asparagus with White Bean Hummus Recipe
 type: starter
 protein: vegetarian
 vibes: 🌎

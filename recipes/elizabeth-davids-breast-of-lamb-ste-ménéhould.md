@@ -1,5 +1,5 @@
 ---
-title: Elizabeth David’s Breast of Lamb Ste-Ménéhould
+title: 🐑 Elizabeth David’s Breast of Lamb Ste-Ménéhould
 type: main
 protein: meat
 ---

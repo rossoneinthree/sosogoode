@@ -1,5 +1,5 @@
 ---
-title: chocolate nemesis
+title: 🍫 chocolate nemesis
 type: dessert
 protein: vegetarian
 effort: weekend

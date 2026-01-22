@@ -1,5 +1,5 @@
 ---
-title: chorizo Jam
+title: 🐷 chorizo Jam
 type: breakfast
 protein: meat
 effort: weeknight

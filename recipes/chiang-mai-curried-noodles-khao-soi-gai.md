@@ -1,5 +1,5 @@
 ---
-title: Chiang Mai curried noodles (Khao soi gai)
+title: 🐔 Chiang Mai curried noodles (Khao soi gai)
 type: main
 protein: pescatarian
 ---

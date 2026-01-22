@@ -1,5 +1,5 @@
 ---
-title: Butternut squash dal & homemade paneer
+title: 🎃 Butternut squash dal & homemade paneer
 type: main
 protein: vegetarian
 ---
