@@ -1,5 +1,5 @@
 ---
-title: Roast Duck with a Cherry and Red Wine Sauce
+title: 🦆 Roast Duck with a Cherry and Red Wine Sauce
 type: main
 protein: meat
 ---

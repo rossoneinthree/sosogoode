@@ -1,5 +1,5 @@
 ---
-title: salsa
+title: 🍅 salsa
 protein: vegetarian
 effort: weekend
 ---

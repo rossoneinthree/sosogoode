@@ -1,5 +1,5 @@
 ---
-title: Oven Roasted Seabream, Mango and Cucumber
+title: 🐟 Oven Roasted Seabream, Mango and Cucumber
 type: main
 protein: pescatarian
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Salt & Schezuan Pepper Squid Recipe
+title: 🦑 Salt & Schezuan Pepper Squid Recipe
 protein: pescatarian
 effort: weeknight
 vibes: 🌎

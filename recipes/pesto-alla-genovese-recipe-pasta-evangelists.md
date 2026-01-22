@@ -1,5 +1,5 @@
 ---
-title: Pesto alla Genovese Recipe - Pasta Evangelists
+title: 🌱 Pesto alla Genovese Recipe - Pasta Evangelists
 type: pasta
 protein: vegetarian
 vibes: 🌎

@@ -1,5 +1,5 @@
 ---
-title: Sambal Spiced Chicken
+title: 🐔 Sambal Spiced Chicken
 type: main
 protein: meat
 effort: weekend

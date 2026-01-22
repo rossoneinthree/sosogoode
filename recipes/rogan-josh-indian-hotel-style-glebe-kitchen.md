@@ -1,5 +1,5 @@
 ---
-title: rogan josh - indian hotel style - glebe kitchen
+title: 🐔 rogan josh - indian hotel style - glebe kitchen
 type: main
 protein: meat
 vibes: 🌎

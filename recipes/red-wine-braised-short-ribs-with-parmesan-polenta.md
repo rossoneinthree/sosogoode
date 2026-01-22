@@ -1,5 +1,5 @@
 ---
-title: Red Wine Braised Short Ribs with Parmesan Polenta
+title: 🐄 Red Wine Braised Short Ribs with Parmesan Polenta
 type: main
 protein: meat
 effort: weekend

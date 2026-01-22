@@ -1,5 +1,5 @@
 ---
-title: Poached Side of Salmon with Asparagus and Brown Shrimps
+title: 🐟 Poached Side of Salmon with Asparagus and Brown Shrimps
 type: main
 protein: pescatarian
 effort: weeknight

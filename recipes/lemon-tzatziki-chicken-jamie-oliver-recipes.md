@@ -1,5 +1,5 @@
 ---
-title: Lemon-tzatziki chicken | Jamie Oliver recipes
+title: 🐔 Lemon-tzatziki chicken | Jamie Oliver recipes
 type: main
 protein: meat
 effort: weekend

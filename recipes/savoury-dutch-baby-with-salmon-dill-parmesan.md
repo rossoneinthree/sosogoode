@@ -1,5 +1,5 @@
 ---
-title: savoury dutch baby with salmon, dill &  parmesan
+title: 🐟 savoury dutch baby with salmon, dill &  parmesan
 type: breakfast
 protein: pescatarian
 effort: weeknight

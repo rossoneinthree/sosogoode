@@ -1,5 +1,5 @@
 ---
-title: Banoffee Pie - April Bloomfield’s 
+title: 🍰 Banoffee Pie - April Bloomfield’s
 type: dessert
 protein: vegetarian
 vibes: 🌎

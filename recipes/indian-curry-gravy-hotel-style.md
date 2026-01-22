@@ -1,5 +1,5 @@
 ---
-title: Indian Curry Gravy – Hotel Style
+title:  Indian Curry Gravy – Hotel Style
 type: side
 protein: vegetarian
 effort: weekend

@@ -1,5 +1,5 @@
 ---
-title: lamb rogan josh - restaurant style at home - glebe kitchen
+title: 🐑 lamb rogan josh - restaurant style at home - glebe kitchen
 protein: meat
 effort: weekend
 vibes: 🌎

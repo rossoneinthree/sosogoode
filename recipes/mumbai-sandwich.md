@@ -1,5 +1,5 @@
 ---
-title: Mumbai Sandwich
+title: 🥪 Mumbai Sandwich
 protein: vegetarian
 effort: weeknight
 vibes: 🌎

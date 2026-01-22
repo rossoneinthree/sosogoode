@@ -1,5 +1,5 @@
 ---
-title: Provençal-Style Braised Lamb Shoulder Recipe
+title: 🐑 Provençal-Style Braised Lamb Shoulder Recipe
 type: main
 protein: meat
 ---

@@ -1,5 +1,5 @@
 ---
-title: Herdwick Lamb shoulder, anchovy crumb, pickled shallots, mint oil
+title: 🐑 Herdwick Lamb shoulder, anchovy crumb, pickled shallots, mint oil
 type: main
 protein: meat
 effort: weekend

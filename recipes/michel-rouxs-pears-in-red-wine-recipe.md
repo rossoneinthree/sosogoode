@@ -1,5 +1,5 @@
 ---
-title: Michel Roux's Pears In Red Wine Recipe
+title: 🍐 Michel Roux's Pears In Red Wine Recipe
 type: dessert
 protein: vegetarian
 ---

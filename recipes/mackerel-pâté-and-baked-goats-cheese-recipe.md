@@ -1,5 +1,5 @@
 ---
-title: Mackerel pâté and baked goats’ cheese recipe
+title: 🐟 Mackerel pâté and baked goats’ cheese recipe
 type: main
 protein: pescatarian
 ---

@@ -1,5 +1,5 @@
 ---
-title: Lacto free fluffy as hell pancakes
+title: 🍰 Lacto free fluffy as hell pancakes
 type: breakfast
 protein: vegetarian
 effort: weeknight

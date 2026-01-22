@@ -1,5 +1,5 @@
 ---
-title: Roasted Courgette Pesto Pasta
+title: 🍝 Roasted Courgette Pesto Pasta
 type: pasta
 protein: vegetarian
 vibes: 🌎

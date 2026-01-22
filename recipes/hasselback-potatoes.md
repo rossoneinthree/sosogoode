@@ -1,5 +1,5 @@
 ---
-title: hasselback potatoes
+title: 🥔 hasselback potatoes
 type: side
 protein: vegetarian
 effort: weekend

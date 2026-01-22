@@ -1,5 +1,5 @@
 ---
-title: Rhubarb and turmeric pickle
+title:  Rhubarb and turmeric pickle
 protein: vegetarian
 effort: weeknight
 vibes: 🌎

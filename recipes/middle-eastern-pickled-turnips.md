@@ -1,5 +1,5 @@
 ---
-title: Middle Eastern Pickled Turnips
+title: 💕 Middle Eastern Pickled Turnips
 type: side
 protein: vegetarian
 effort: weeknight

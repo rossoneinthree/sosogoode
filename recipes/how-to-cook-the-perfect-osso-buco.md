@@ -1,5 +1,5 @@
 ---
-title: Osso buco
+title: 🐄 Osso buco
 protein: meat
 vibes: 🌎
 ---

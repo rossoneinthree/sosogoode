@@ -1,5 +1,5 @@
 ---
-title: mackerel paté
+title: 🐟 mackerel paté
 type: starter
 protein: pescatarian
 effort: weeknight

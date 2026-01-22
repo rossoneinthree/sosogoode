@@ -1,5 +1,5 @@
 ---
-title: Lancashire Lamb Hotpot
+title: 🐑 Lancashire Lamb Hotpot
 type: main
 protein: meat
 effort: weekend

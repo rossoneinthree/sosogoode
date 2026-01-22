@@ -1,5 +1,5 @@
 ---
-title: Poached Sea Bream With Ginger & Broccoli Recipe | Waitrose & Partners
+title: 🐟 Poached Sea Bream With Ginger & Broccoli Recipe | Waitrose & Partners
 type: main
 protein: meat
 vibes: 🌎

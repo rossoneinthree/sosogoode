@@ -1,5 +1,5 @@
 ---
-title: pasta with breadcrumbs
+title: 🍝 Pasta with breadcrumbs
 type: pasta
 protein: pescatarian
 effort: weeknight

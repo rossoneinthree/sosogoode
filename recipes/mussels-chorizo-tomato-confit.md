@@ -1,5 +1,5 @@
 ---
-title: Mussels, Chorizo & Tomato Confit
+title: 🐷 Mussels, Chorizo & Tomato Confit
 type: main
 protein: meat
 effort: weeknight

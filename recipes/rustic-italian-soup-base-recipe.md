@@ -1,5 +1,5 @@
 ---
-title: Rustic Italian Soup - Base recipe
+title:  Rustic Italian Soup - Base recipe
 type: main
 protein: meat
 effort: weeknight

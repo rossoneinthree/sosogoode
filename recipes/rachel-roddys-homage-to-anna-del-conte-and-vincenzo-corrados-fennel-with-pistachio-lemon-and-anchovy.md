@@ -1,5 +1,5 @@
 ---
-title: Rachel Roddy’s homage to Anna del Conte and Vincenzo Corrado’s fennel with pistachio, lemon and anchovy sauce | A kitchen in Rome
+title: 🐟 Rachel Roddy’s homage to Anna del Conte and Vincenzo Corrado’s fennel with pistachio, lemon and anchovy sauce | A kitchen in Rome
 type: pasta
 protein: pescatarian
 effort: weeknight

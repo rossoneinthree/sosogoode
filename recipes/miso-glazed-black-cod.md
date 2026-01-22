@@ -1,5 +1,5 @@
 ---
-title: Miso Glazed Black Cod
+title: 🐟 Miso Glazed Black Cod
 type: main
 protein: pescatarian
 effort: weekend

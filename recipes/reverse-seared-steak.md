@@ -1,5 +1,5 @@
 ---
-title: Reverse-Seared Steak
+title: 🥩 Reverse-Seared Steak
 protein: meat
 effort: weeknight
 vibes: 🌎

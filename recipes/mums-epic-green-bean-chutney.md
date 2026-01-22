@@ -1,5 +1,5 @@
 ---
-title: Mums epic Green Bean Chutney
+title: 🫛 Mums epic Green Bean Chutney
 type: side
 protein: vegetarian
 effort: weeknight

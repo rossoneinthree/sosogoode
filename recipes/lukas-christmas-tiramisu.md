@@ -1,5 +1,5 @@
 ---
-title: LUKA'S CHRISTMAS TIRAMISU
+title: 🍫 LUKA'S CHRISTMAS TIRAMISU
 type: dessert
 protein: vegetarian
 effort: weekend

@@ -1,5 +1,5 @@
 ---
-title: Lentil, ras-el hanout & date ‘meatballs’ with olive salsa
+title: 🍅 Lentil, ras-el hanout & date ‘meatballs’ with olive salsa
 type: main
 protein: vegetarian
 vibes: 🌎

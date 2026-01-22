@@ -1,5 +1,5 @@
 ---
-title: Flourless chocolate cake – recipe
+title: 🍫 Flourless chocolate cake – recipe
 type: dessert
 protein: vegetarian
 ---

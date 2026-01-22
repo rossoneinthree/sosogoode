@@ -1,5 +1,5 @@
 ---
-title: perfect fish pie
+title: 🐟 perfect fish pie
 type: main
 protein: pescatarian
 effort: weekend

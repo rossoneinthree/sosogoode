@@ -1,5 +1,5 @@
 ---
-title: Hot Honey Halloumi flatbreads
+title: 🧀 Hot Honey Halloumi flatbreads
 type: snack
 protein: vegetarian
 effort: weeknight

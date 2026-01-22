@@ -1,5 +1,5 @@
 ---
-title: sea bass admiral sauce
+title: 🐟 sea bass admiral sauce
 type: main
 protein: pescatarian
 effort: weeknight

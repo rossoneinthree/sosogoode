@@ -1,5 +1,5 @@
 ---
-title: purple sprouting brocoli
+title: 🥦🐟 purple sprouting brocoli
 protein: vegetarian
 ---
 

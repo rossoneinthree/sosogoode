@@ -1,5 +1,5 @@
 ---
-title: Grilled mackerel with pickled gooseberry ketchup
+title: 🐟 Grilled mackerel with pickled gooseberry ketchup
 type: main
 protein: pescatarian
 ---

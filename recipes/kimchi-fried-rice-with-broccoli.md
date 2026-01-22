@@ -1,5 +1,5 @@
 ---
-title: Kimchi Fried Rice With Broccoli
+title: 🥦 Kimchi Fried Rice With Broccoli
 type: main
 protein: vegetarian
 vibes: 🌎

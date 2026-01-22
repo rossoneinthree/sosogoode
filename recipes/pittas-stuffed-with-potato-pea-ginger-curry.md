@@ -1,5 +1,5 @@
 ---
-title: Pittas stuffed with potato pea ginger curry
+title: 🥙 Pittas stuffed with potato pea ginger curry
 type: main
 protein: vegetarian
 effort: weeknight

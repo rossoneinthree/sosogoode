@@ -1,5 +1,5 @@
 ---
-title: roast whole new potatoes – recipe
+title: 🥔 roast whole new potatoes – recipe
 type: side
 protein: vegetarian
 vibes: 🥔,🍟

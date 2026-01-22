@@ -1,5 +1,5 @@
 ---
-title: Mulled Wine-Braised Red Cabbage Recipe
+title: 🍷 Mulled Wine-Braised Red Cabbage Recipe
 type: side
 protein: vegetarian
 vibes: 🌎

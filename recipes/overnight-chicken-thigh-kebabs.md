@@ -1,5 +1,5 @@
 ---
-title: overnight chicken thigh kebabs
+title: 🐔🍢 overnight chicken thigh kebabs
 type: main
 protein: meat
 effort: weekend

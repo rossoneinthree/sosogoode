@@ -1,5 +1,5 @@
 ---
-title: Rachel Roddy’s recipe for lentils, roast grapes and goat’s cheese | A kitchen in Rome
+title: 🫘 Rachel Roddy’s recipe for lentils, roast grapes and goat’s cheese | A kitchen in Rome
 type: main
 protein: vegetarian
 vibes: 🌎

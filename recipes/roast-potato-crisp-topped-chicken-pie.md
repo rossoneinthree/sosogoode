@@ -1,5 +1,5 @@
 ---
-title: Roast Potato & Crisp-Topped Chicken Pie
+title: 🐔 Roast Potato & Crisp-Topped Chicken Pie
 type: main
 protein: meat
 effort: weekend

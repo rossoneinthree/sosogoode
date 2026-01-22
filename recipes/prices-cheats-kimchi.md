@@ -1,5 +1,5 @@
 ---
-title: PRICE's ‘CHEATS’ KIMCHI
+title: 🥬 PRICE's ‘CHEATS’ KIMCHI
 type: snack
 protein: vegetarian
 effort: weeknight

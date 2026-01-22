@@ -1,5 +1,5 @@
 ---
-title: Arancine | A kitchen in Rome
+title: 🐑 Arancine | A kitchen in Rome
 type: main
 protein: vegetarian
 effort: weeknight

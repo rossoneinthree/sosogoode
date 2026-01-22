@@ -1,5 +1,5 @@
 ---
-title: Grilled Leg of Lamb Is a Showstopping Main Dish
+title: 🐑 Grilled Leg of Lamb Is a Showstopping Main Dish
 type: main
 protein: meat
 ---

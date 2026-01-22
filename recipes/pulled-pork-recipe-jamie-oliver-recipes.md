@@ -1,5 +1,5 @@
 ---
-title: Pulled pork recipe | Jamie Oliver recipes
+title: 🐷 Pulled pork recipe | Jamie Oliver recipes
 type: main
 protein: meat
 effort: weekend

@@ -1,5 +1,5 @@
 ---
-title: Grilled Onion Salad with Sumac and Herbs
+title: 🥗 Grilled Onion Salad with Sumac and Herbs
 type: salad
 protein: vegetarian
 vibes: 🌎

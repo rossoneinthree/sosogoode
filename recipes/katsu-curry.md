@@ -1,5 +1,5 @@
 ---
-title: Katsu curry
+title: 🐔 Katsu curry
 protein: vegetarian
 effort: weekend
 vibes: 🌎

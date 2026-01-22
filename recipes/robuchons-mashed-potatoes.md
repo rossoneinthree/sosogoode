@@ -1,5 +1,5 @@
 ---
-title: Robuchon’s Mashed Potatoes
+title: 🥔 Robuchon’s Mashed Potatoes
 protein: vegetarian
 effort: weeknight
 vibes: 🥔

@@ -1,5 +1,5 @@
 ---
-title: Meera Sodha’s tomato curry recipe
+title: 🍅 Meera Sodha’s tomato curry recipe
 type: main
 protein: vegetarian
 vibes: 🥔

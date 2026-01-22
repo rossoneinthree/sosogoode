@@ -1,5 +1,5 @@
 ---
-title: Grilled mackerel with Korean chilli
+title: 🐟 Grilled mackerel with Korean chilli
 type: main
 protein: pescatarian
 vibes: 🌎

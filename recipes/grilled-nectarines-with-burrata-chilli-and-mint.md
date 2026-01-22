@@ -1,5 +1,5 @@
 ---
-title: Grilled nectarines with burrata, chilli and mint
+title: 🥗 Grilled nectarines with burrata, chilli and mint
 type: salad
 protein: vegetarian
 vibes: 🌎

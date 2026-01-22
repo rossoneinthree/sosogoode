@@ -1,5 +1,5 @@
 ---
-title: Pulled Pork Baps with Apple Slaw and Tangy BBQ Sauce Recipe on Food52
+title: 🐷 Pulled Pork Baps with Apple Slaw and Tangy BBQ Sauce Recipe on Food52
 type: main
 protein: meat
 ---

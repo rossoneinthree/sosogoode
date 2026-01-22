@@ -1,5 +1,5 @@
 ---
-title: PRICE's ASIAN PORK BELLY TACOS
+title: 🐷 PRICE's ASIAN PORK BELLY TACOS
 type: main
 protein: meat
 effort: weekend

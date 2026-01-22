@@ -1,5 +1,5 @@
 ---
-title: Grilled Sourdough with Prosciutto and Stracciatella
+title: 🥪 Grilled Sourdough with Prosciutto and Stracciatella
 type: main
 protein: meat
 effort: weeknight

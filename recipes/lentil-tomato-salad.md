@@ -1,5 +1,5 @@
 ---
-title: Lentil & tomato salad
+title: 🥗 Lentil & tomato salad
 type: main
 protein: vegetarian
 vibes: 🥔

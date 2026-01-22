@@ -1,5 +1,5 @@
 ---
-title: Price's Dry Spice Chicken Wings
+title: 🐔 Price's Dry Spice Chicken Wings
 protein: meat
 effort: weeknight
 vibes: 🌶️

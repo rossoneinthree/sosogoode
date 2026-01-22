@@ -1,5 +1,5 @@
 ---
-title: grey salt, white chocolate, matcha blondies
+title: 🍫 grey salt, white chocolate, matcha blondies
 type: dessert
 protein: vegetarian
 effort: weeknight

@@ -1,5 +1,5 @@
 ---
-title: Orange and fennel salad
+title: 🥗🍊 Orange and fennel salad
 type: salad
 protein: vegetarian
 effort: weeknight

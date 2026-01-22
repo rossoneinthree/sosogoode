@@ -1,5 +1,5 @@
 ---
-title: mustardy mackerel fishcakes — eat the right stuff
+title: 🐟 mustardy mackerel fishcakes — eat the right stuff
 type: main
 protein: pescatarian
 vibes: 🌎

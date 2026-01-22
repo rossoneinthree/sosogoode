@@ -1,5 +1,5 @@
 ---
-title: Pesto alla Genovese
+title: 🌱 Pesto alla Genovese
 type: main
 protein: vegetarian
 effort: weeknight

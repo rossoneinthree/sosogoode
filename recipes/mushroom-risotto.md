@@ -1,5 +1,5 @@
 ---
-title: Mushroom risotto
+title: 🍄‍🟫🧀 Mushroom risotto
 type: main
 protein: vegetarian
 vibes: 🌎

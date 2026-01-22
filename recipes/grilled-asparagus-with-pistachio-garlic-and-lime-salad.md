@@ -1,5 +1,5 @@
 ---
-title: Grilled asparagus with pistachio, garlic and lime salad
+title: 🌱 Grilled asparagus with pistachio, garlic and lime salad
 type: salad
 protein: vegetarian
 effort: weeknight

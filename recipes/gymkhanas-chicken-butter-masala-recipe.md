@@ -1,5 +1,5 @@
 ---
-title: Gymkhana’s chicken butter masala – recipe
+title: 🐔 Gymkhana’s chicken butter masala – recipe
 type: main
 protein: meat
 vibes: 🌎

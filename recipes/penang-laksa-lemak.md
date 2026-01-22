@@ -1,7 +1,7 @@
 ---
-title: PENANG LAKSA LEMAK
+title: 🐟 PENANG LAKSA LEMAK
 type: main
-protein: vegetarian
+protein: pescatarian 
 effort: weekend
 vibes: 🌎
 ---

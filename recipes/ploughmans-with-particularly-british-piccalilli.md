@@ -1,5 +1,5 @@
 ---
-title: Ploughman’s with Particularly British Piccalilli
+title:  Ploughman’s with Particularly British Piccalilli
 type: main
 protein: meat
 ---

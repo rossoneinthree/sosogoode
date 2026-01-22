@@ -1,5 +1,5 @@
 ---
-title: Guacamole & Pico de Gallo
+title: 🥑 Guacamole & Pico de Gallo
 type: salad
 protein: vegetarian
 effort: weeknight

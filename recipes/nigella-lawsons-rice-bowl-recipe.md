@@ -1,5 +1,5 @@
 ---
-title: Nigella Lawson's rice bowl recipe
+title: 🍛 Nigella Lawson's rice bowl recipe
 protein: vegetarian
 ---
 

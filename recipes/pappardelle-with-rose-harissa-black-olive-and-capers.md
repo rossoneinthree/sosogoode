@@ -1,5 +1,5 @@
 ---
-title: Pappardelle with rose harissa, black olive and capers
+title: 🍝 Pappardelle with rose harissa, black olive and capers
 type: main
 protein: vegetarian
 effort: weeknight

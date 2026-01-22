@@ -1,5 +1,5 @@
 ---
-title: Lasagne of Love
+title: 🐷🐄 Lasagne of Love
 type: main
 protein: meat
 ---

@@ -1,5 +1,5 @@
 ---
-title: Paneer Butter Masala
+title: 🍅 Paneer Butter Masala
 type: main
 protein: vegetarian
 effort: weeknight

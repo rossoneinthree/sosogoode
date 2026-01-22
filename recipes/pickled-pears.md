@@ -1,5 +1,5 @@
 ---
-title: pickled pears
+title: 🍐 pickled pears
 type: snack
 protein: vegetarian
 effort: weeknight

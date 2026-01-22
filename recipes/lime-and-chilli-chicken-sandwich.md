@@ -1,5 +1,5 @@
 ---
-title: Lime and chilli chicken sandwich
+title: 🐔🥪 Lime and chilli chicken sandwich
 protein: meat
 effort: weeknight
 vibes: 🌎

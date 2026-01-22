@@ -1,5 +1,5 @@
 ---
-title: potato galette
+title: 🥔 potato galette
 type: side
 protein: vegetarian
 effort: weeknight

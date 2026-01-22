@@ -1,5 +1,5 @@
 ---
-title: Lime and Chipotle Black Bean Tacos
+title: 🥗 Lime and Chipotle Black Bean Tacos
 protein: vegetarian
 effort: weeknight
 vibes: 🫚,😶‍🌫️

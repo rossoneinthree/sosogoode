@@ -1,5 +1,5 @@
 ---
-title: Japanese Souffle Pancakes
+title: 🍰 Japanese Souffle Pancakes
 type: breakfast
 protein: vegetarian
 effort: weeknight

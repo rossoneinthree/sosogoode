@@ -1,5 +1,5 @@
 ---
-title: Mango Mezcal Sorbet with Lime & Tajin
+title: 🍰 Mango Mezcal Sorbet with Lime & Tajin
 type: dessert
 protein: vegetarian
 effort: weeknight

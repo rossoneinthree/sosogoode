@@ -1,5 +1,5 @@
 ---
-title: Quick cucumber pickle 4 ways
+title: 🥒 Quick cucumber pickle 4 ways
 type: snack
 protein: vegetarian
 effort: weeknight

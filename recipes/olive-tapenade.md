@@ -1,5 +1,5 @@
 ---
-title: Olive Tapenade
+title: 🫒 Olive Tapenade
 type: side
 protein: vegetarian
 ---
