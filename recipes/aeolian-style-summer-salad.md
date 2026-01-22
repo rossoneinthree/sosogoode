@@ -1,5 +1,5 @@
 ---
-title: Aeolian-style Summer Salad
+title: 🥗 Aeolian-style Summer Salad
 type: salad
 protein: vegetarian
 effort: weeknight
