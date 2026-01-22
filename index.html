@@ -330,10 +330,6 @@
     <!-- Sort Toggle & Recipe Count -->
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
         <div class="recipe-count" id="recipe-count"></div>
-        <div class="sort-toggle">
-            <button class="sort-button active" data-sort="alpha" onclick="toggleSort('alpha')">A-Z</button>
-            <button class="sort-button" data-sort="date" onclick="toggleSort('date')">Date Added</button>
-        </div>
     </div>
 
     <!-- Recipe List -->
@@ -344,29 +340,12 @@
     <script>
         // State
         let allRecipes = [];
-        let currentSort = 'alpha'; // 'alpha' or 'date'
         let activeFilters = {
             type: new Set(),
             protein: new Set(),
             effort: new Set(),
             vibes: new Set()
         };
-
-        // Toggle sort order
-        function toggleSort(sortType) {
-            currentSort = sortType;
-            
-            // Update button states
-            document.querySelectorAll('.sort-button').forEach(btn => {
-                if (btn.dataset.sort === sortType) {
-                    btn.classList.add('active');
-                } else {
-                    btn.classList.remove('active');
-                }
-            });
-            
-            renderRecipes();
-        }
 
         // Load and parse all recipes
         async function loadRecipes() {
@@ -387,7 +366,7 @@
                         sha: file.sha
                     }));
 
-                // Fetch and parse each recipe with commit date
+                // Fetch and parse each recipe
                 const recipePromises = recipeFiles.map(async (file) => {
                     try {
                         // Fetch recipe content
@@ -395,19 +374,7 @@
                         if (!response.ok) throw new Error(`Failed to load ${file.name}`);
                         const text = await response.text();
                         
-                        // Fetch commit info for date added
-                        const commitsResponse = await fetch(`https://api.github.com/repos/rossoneinthree/sosogoode/commits?path=recipes/${file.name}&per_page=1`);
-                        let dateAdded = null;
-                        if (commitsResponse.ok) {
-                            const commits = await commitsResponse.json();
-                            if (commits.length > 0) {
-                                dateAdded = new Date(commits[0].commit.author.date);
-                            }
-                        }
-                        
-                        const recipe = parseRecipe(text, file.name);
-                        recipe.dateAdded = dateAdded;
-                        return recipe;
+                        return parseRecipe(text, file.name);
                     } catch (error) {
                         console.error(`Error loading ${file.name}:`, error);
                         return null;
@@ -552,20 +519,13 @@
                 emptyElement.style.display = 'none';
             }
 
-            // Sort recipes based on current sort mode
-            let sortedRecipes;
-            if (currentSort === 'date') {
-                // Sort by date added (most recent first)
-                sortedRecipes = [...filteredRecipes].sort((a, b) => {
-                    if (!a.dateAdded && !b.dateAdded) return 0;
-                    if (!a.dateAdded) return 1;
-                    if (!b.dateAdded) return -1;
-                    return b.dateAdded - a.dateAdded; // Newest first
-                });
-            } else {
-                // Sort alphabetically by title
-                sortedRecipes = [...filteredRecipes].sort((a, b) => a.title.localeCompare(b.title));
-            }
+            // Sort recipes alphabetically (strip emoji first)
+            const sortedRecipes = [...filteredRecipes].sort((a, b) => {
+                // Remove emoji and leading spaces from titles for sorting
+                const cleanA = a.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
+                const cleanB = b.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
+                return cleanA.localeCompare(cleanB);
+            });
 
             // Render list
             listElement.innerHTML = sortedRecipes
