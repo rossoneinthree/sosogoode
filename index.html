@@ -117,7 +117,34 @@
         .recipe-count {
             font-size: 14px;
             color: #666;
-            margin-bottom: 12px;
+        }
+
+        /* Sort Toggle */
+        .sort-toggle {
+            display: flex;
+            gap: 4px;
+        }
+
+        .sort-button {
+            padding: 6px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #fff;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            color: #666;
+        }
+
+        .sort-button.active {
+            background: #333;
+            color: #fff;
+            border-color: #333;
+        }
+
+        .sort-button:hover:not(.active) {
+            background: #f5f5f5;
+        }
         }
 
         .recipe-list {
@@ -302,8 +329,14 @@
         <div id="recipe-content"></div>
     </div>
 
-    <!-- Recipe Count -->
-    <div class="recipe-count" id="recipe-count"></div>
+    <!-- Sort Toggle & Recipe Count -->
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+        <div class="recipe-count" id="recipe-count"></div>
+        <div class="sort-toggle">
+            <button class="sort-button active" data-sort="alpha" onclick="toggleSort('alpha')">A-Z</button>
+            <button class="sort-button" data-sort="date" onclick="toggleSort('date')">Date Added</button>
+        </div>
+    </div>
 
     <!-- Recipe List -->
     <div class="loading" id="loading">Loading recipes...</div>
@@ -313,12 +346,29 @@
     <script>
         // State
         let allRecipes = [];
+        let currentSort = 'alpha'; // 'alpha' or 'date'
         let activeFilters = {
             type: new Set(),
             protein: new Set(),
             effort: new Set(),
             vibes: new Set()
         };
+
+        // Toggle sort order
+        function toggleSort(sortType) {
+            currentSort = sortType;
+            
+            // Update button states
+            document.querySelectorAll('.sort-button').forEach(btn => {
+                if (btn.dataset.sort === sortType) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+            
+            renderRecipes();
+        }
 
         // Load and parse all recipes
         async function loadRecipes() {
@@ -488,9 +538,19 @@
                 emptyElement.style.display = 'none';
             }
 
+            // Sort recipes based on current sort mode
+            let sortedRecipes;
+            if (currentSort === 'date') {
+                // Sort by filename (GitHub returns files in order they were added)
+                // Reverse to show newest first
+                sortedRecipes = [...filteredRecipes].reverse();
+            } else {
+                // Sort alphabetically by title
+                sortedRecipes = [...filteredRecipes].sort((a, b) => a.title.localeCompare(b.title));
+            }
+
             // Render list
-            listElement.innerHTML = filteredRecipes
-                .sort((a, b) => a.title.localeCompare(b.title))
+            listElement.innerHTML = sortedRecipes
                 .map(recipe => {
                     const meta = [];
                     if (recipe.protein) {
