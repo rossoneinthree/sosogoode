@@ -145,7 +145,6 @@
         .sort-button:hover:not(.active) {
             background: #f5f5f5;
         }
-        }
 
         .recipe-list {
             list-style: none;
@@ -330,6 +329,10 @@
     <!-- Sort Toggle & Recipe Count -->
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
         <div class="recipe-count" id="recipe-count"></div>
+        <div class="sort-toggle">
+            <button class="sort-button active" data-sort="alpha" onclick="setSort('alpha')">A–Z</button>
+            <button class="sort-button" data-sort="newest" onclick="setSort('newest')">Newest</button>
+        </div>
     </div>
 
     <!-- Recipe List -->
@@ -340,6 +343,7 @@
     <script>
         // State
         let allRecipes = [];
+        let currentSort = 'alpha';
         let activeFilters = {
             type: new Set(),
             protein: new Set(),
@@ -403,6 +407,7 @@
                 protein: null,
                 effort: null,
                 vibes: [],
+                dateAdded: null,
                 content: markdown
             };
 
@@ -432,6 +437,12 @@
                 // Parse effort
                 const effortMatch = frontmatter.match(/effort:\s*(.+)/);
                 if (effortMatch) recipe.effort = effortMatch[1].trim();
+
+                // Parse date_added
+                const dateMatch = frontmatter.match(/date_added:\s*(.+)/);
+                if (dateMatch) {
+                    recipe.dateAdded = dateMatch[1].trim();
+                }
 
                 // Parse vibes (emoji)
                 const vibesMatch = frontmatter.match(/vibes:\s*(.+)/);
@@ -497,6 +508,18 @@
             return true;
         }
 
+        // Set sort order
+        function setSort(sortType) {
+            currentSort = sortType;
+            
+            // Update button states
+            document.querySelectorAll('.sort-button').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.sort === sortType);
+            });
+            
+            renderRecipes();
+        }
+
         // Render recipe list
         function renderRecipes() {
             const listElement = document.getElementById('recipe-list');
@@ -519,13 +542,31 @@
                 emptyElement.style.display = 'none';
             }
 
-            // Sort recipes alphabetically (strip emoji first)
-            const sortedRecipes = [...filteredRecipes].sort((a, b) => {
-                // Remove emoji and leading spaces from titles for sorting
-                const cleanA = a.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
-                const cleanB = b.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
-                return cleanA.localeCompare(cleanB);
-            });
+            // Sort recipes
+            let sortedRecipes;
+            if (currentSort === 'newest') {
+                // Sort by date_added (newest first), recipes without dates go to the end
+                sortedRecipes = [...filteredRecipes].sort((a, b) => {
+                    // If neither has a date, sort alphabetically
+                    if (!a.dateAdded && !b.dateAdded) {
+                        const cleanA = a.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
+                        const cleanB = b.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
+                        return cleanA.localeCompare(cleanB);
+                    }
+                    // If only one has a date, the one with a date comes first
+                    if (!a.dateAdded) return 1;
+                    if (!b.dateAdded) return -1;
+                    // Both have dates - sort newest first
+                    return b.dateAdded.localeCompare(a.dateAdded);
+                });
+            } else {
+                // Sort alphabetically (strip emoji first)
+                sortedRecipes = [...filteredRecipes].sort((a, b) => {
+                    const cleanA = a.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
+                    const cleanB = b.title.replace(/[\p{Emoji}\s]+/gu, '').trim();
+                    return cleanA.localeCompare(cleanB);
+                });
+            }
 
             // Render list
             listElement.innerHTML = sortedRecipes
