@@ -1,6 +1,7 @@
 ---
 title: 🍫 Banoffee Pie
-protein: vegetarian
+type: dessert
+protein:
 effort: weeknight
 vibes: 🍬,🥔
 ---
