@@ -1,7 +1,7 @@
 ---
 title: 🍰 butterscotch pot de creme
 type: dessert
-protein: vegetarian
+protein:
 effort: weekend
 vibes: 🧂,🍬
 ---
