@@ -19,6 +19,36 @@
             padding: 16px;
             max-width: 800px;
             margin: 0 auto;
+            position: relative;
+        }
+
+        /* Wake Lock Button */
+        .wake-lock-button {
+            position: fixed;
+            top: 16px;
+            right: 16px;
+            width: 44px;
+            height: 44px;
+            border: 1px solid #ddd;
+            border-radius: 50%;
+            background: #fff;
+            font-size: 24px;
+            cursor: pointer;
+            z-index: 200;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .wake-lock-button.active {
+            background: #333;
+            border-color: #333;
+        }
+
+        .wake-lock-button:active {
+            transform: scale(0.95);
         }
 
         h1 {
@@ -294,6 +324,9 @@
     </style>
 </head>
 <body>
+    <!-- Wake Lock Button -->
+    <button class="wake-lock-button" id="wake-lock-btn" onclick="toggleWakeLock()" title="Keep screen awake">☕</button>
+
 <!-- Filters -->
     <div class="filters">
         <!-- Recipe Type Filters -->
@@ -341,6 +374,39 @@
     <div class="empty" id="empty" style="display: none;">No recipes match your filters</div>
 
     <script>
+        // Wake Lock functionality
+        let wakeLock = null;
+
+        async function toggleWakeLock() {
+            const button = document.getElementById('wake-lock-btn');
+            
+            if (wakeLock !== null) {
+                // Release wake lock
+                wakeLock.release();
+                wakeLock = null;
+                button.classList.remove('active');
+            } else {
+                // Request wake lock
+                try {
+                    if ('wakeLock' in navigator) {
+                        wakeLock = await navigator.wakeLock.request('screen');
+                        button.classList.add('active');
+                        
+                        // Handle wake lock release (e.g., when tab becomes hidden)
+                        wakeLock.addEventListener('release', () => {
+                            button.classList.remove('active');
+                            wakeLock = null;
+                        });
+                    } else {
+                        alert('Wake Lock not supported on this device');
+                    }
+                } catch (err) {
+                    console.error('Wake Lock error:', err);
+                    alert('Could not activate wake lock');
+                }
+            }
+        }
+
         // State
         let allRecipes = [];
         let currentSort = 'alpha';
