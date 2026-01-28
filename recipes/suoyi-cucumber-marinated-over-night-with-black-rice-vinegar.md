@@ -1,5 +1,5 @@
 ---
-title: 🥒 Suoyi cucumber, marinated over night with black rice vinegar.
+title: Suoyi cucumber, marinated over night with black rice vinegar.
 type: side
 protein: pescatarian
 effort: weekend
