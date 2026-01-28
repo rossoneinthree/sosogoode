@@ -1,7 +1,7 @@
 ---
 title: 🐟 smoky white fish chowder
 type: main
-protein: meat
+protein: pescatarian
 effort: weeknight
 ---
 

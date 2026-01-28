@@ -1,7 +1,7 @@
 ---
 title: 🐟 Poached Sea Bream With Ginger & Broccoli Recipe | Waitrose & Partners
 type: main
-protein: meat
+protein: pescatarian
 vibes: 🌎
 ---
 
