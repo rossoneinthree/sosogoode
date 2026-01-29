@@ -1,11 +1,10 @@
 ---
-title: Sicilian Prawns with breadcrumbs almond & lemon
+title: 🦐 Sicilian Prawns with breadcrumbs almond & lemon
 type: starter
 protein: pescatarian
 effort: weeknight
-vibes: 🌶️
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 •	400g fresh prawns, cleaned (shell on or off—your kitchen, your rules) , 	•	2 cloves garlic, sliced thin , 	•	1 fresh chilli, sliced (less if timid) , 	•	100ml dry white wine , 	•	1 handful fresh parsley, chopped roughly , 	•	4 tbsp breadcrumbs (or stale bread) , 	•	Salt and black pepper , 	•	60g almonds, sliced or roughly chopped , 	•	4 tbsp breadcrumbs , 	•	Lemon wedges, to serve

@@ -1,11 +1,10 @@
 ---
-title: Spaghetti With Lemon, Garlic and Breadcrumbs
+title: pasta🍝 Spaghetti With Lemon, Garlic and Breadcrumbs
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🍋
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 200 grams spaghetti or spaghettini , salt for pasta water plus 1 teaspoon sea salt flakes , 1 x 15ml tablespoon regular olive oil , zest and juice of 1 unwaxed lemon , approx. 50 grams - ½ cup - breadcrumbs , 2 x 15ml tablespoons extra virgin olive oil , ¼ teaspoon dried chilli flakes , 1 clove garlic (peeled) , black pepper (to taste) , 1 small bunch fresh flatleaf parsley (chopped)

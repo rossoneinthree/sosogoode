@@ -1,11 +1,10 @@
 ---
-title: Simple miso chicken salad recipe
+title: 🐔 Simple miso chicken salad recipe
 type: main
 protein: meat
 effort: weeknight
-vibes: 🌎
+vibes: 🥢 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 20

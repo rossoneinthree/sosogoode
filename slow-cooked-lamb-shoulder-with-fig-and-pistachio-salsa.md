@@ -1,10 +1,10 @@
 ---
-title: Slow-cooked Lamb Shoulder with Fig and Pistachio Salsa
+title: 🐑 Slow-cooked Lamb Shoulder with Fig and Pistachio Salsa
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 3 (540g)	onions, peeled, 1 roughly chopped and the other 2 each cut into 6 wedges , 6	garlic cloves, peeled and roughly chopped , 30g	fresh ginger, peeled and roughly chopped , 1½ tsp	ground cinnamon , 2 tsp	ground coriander , ½ tsp	ground turmeric , 10g	dill, roughly chopped , 45ml	olive oil , 2 tbsp	apple cider vinegar , 2kg	lamb shoulder, bone in , 3	cinnamon sticks , 12	cardamom pods, roughly bashed open with a pestle and mortar , 100g	soft dried figs, quartered , 750ml	chicken stock , salt and black pepper , 1	lemon, cut into 6 wedges, to serve , For the fig and pistachio salsa: , 50g	soft dried figs, chopped into 1cm dice , 40g	pistachios, very lightly toasted and roughly chopped , 1½ tbsp	lemon juice , 5g	dill, leaves picked , 5g	parsley, leaves picked

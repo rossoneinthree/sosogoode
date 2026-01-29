@@ -1,10 +1,10 @@
 ---
-title: Slow-Roasted Crispy Pork Belly
+title: 🐷 Slow-Roasted Crispy Pork Belly
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 pork belly , fennel seeds , olive oil , salt

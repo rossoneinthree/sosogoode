@@ -1,10 +1,10 @@
 ---
-title: smoky white fish chowder
+title: 🐟 smoky white fish chowder
 type: main
-protein: meat
+protein: pescatarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 ingredients:   - 1 tbsp butter or bacon fat   - 1–2 anchovy fillets   - 1 large leek, white and pale green only, sliced   - 2 medium potatoes, peeled and diced   - 1 bay leaf   - 600ml stock (blend of chicken, fish, and/or shellfish)   - 1 handful corn kernels (optional, fresh or frozen)   - 100–150ml whole milk   - 150–200g smoked or unsmoked haddock, cut into chunks   - salt, black pepper, lemon juice or white wine vinegar to taste   - optional: crisped bacon bits, fresh chives, smoked paprika   - sourdough, for serving

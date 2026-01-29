@@ -1,11 +1,10 @@
 ---
-title: spaghetti carbonara recipe
+title: 🍝🐷 spaghetti carbonara recipe
 type: pasta
 protein: meat
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹
 ---
-
 ## Info
 
 - **Total:** 20

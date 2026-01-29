@@ -1,10 +1,9 @@
 ---
-title: Smoked Salmon Mousse Recipe
+title: 🐟 Smoked Salmon Mousse Recipe
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 60

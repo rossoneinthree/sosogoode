@@ -1,10 +1,10 @@
 ---
-title: spiced baked beans
+title: 🫘 spiced baked beans
 type: breakfast
 protein: vegetarian
 effort: weeknight
+vibes: 🇮🇹
 ---
-
 ## Info
 
 - **Prep:** 20

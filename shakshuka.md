@@ -1,11 +1,10 @@
 ---
-title: shakshuka
+title: 🍅 shakshuka
 type: breakfast
 protein: vegetarian
 effort: weeknight
-vibes: 🌶️
+vibes: 🍆
 ---
-
 ## Ingredients
 
 2 tablespoons olive oil , 1 medium onion, diced , 1 red bell pepper, seeded and diced , 4 garlic cloves, finely chopped , 2 tsp paprika , 1 tsp cumin , 0.25 tsp chili powder , 1 400g can whole peeled tomatoes , 6 large eggs , salt and pepper, to taste , 1 small bunch fresh coriander, chopped , 1 small bunch fresh parsley, chopped

@@ -1,9 +1,8 @@
 ---
-title: Slow-cooked lamb shoulder with fig and pistachio salsa | Ottolenghi
+title: 🐑 Slow-cooked lamb shoulder with fig and pistachio salsa | Ottolenghi
 protein: meat
-vibes: 🌎
+vibes: 🥑
 ---
-
 **Chef:** Ottolenghi
 
 **Source:** [https://ottolenghi.co.uk/pages/recipes/slow-cooked-lamb-shoulder-fig-pistachio-salsa](https://ottolenghi.co.uk/pages/recipes/slow-cooked-lamb-shoulder-fig-pistachio-salsa)
