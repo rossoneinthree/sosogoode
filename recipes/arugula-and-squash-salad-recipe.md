@@ -2,9 +2,8 @@
 title: 🥗 Arugula-and-Squash Salad Recipe
 type: salad
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺 🇮🇹
 ---
-
 **Chef:** April Bloomfield
 
 **Source:** [https://www.foodandwine.com/recipes/arugula-and-squash-salad](https://www.foodandwine.com/recipes/arugula-and-squash-salad)

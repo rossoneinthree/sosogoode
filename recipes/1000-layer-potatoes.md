@@ -3,9 +3,8 @@ title: 🥔 1000 layer potatoes
 type: side
 protein: meat
 effort: weekend
-vibes: 🥔,🍟
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1kg Maris Piper potatoes, peeled and washed , 125g of duck fat , 1 tbsp of Maldon salt, plus extra for sprinkling , vegetable oil, for deep-frying , Mustard dressing , 425g of Dijon mustard , 1/2 lemon, juiced , 1/2 tsp cider vinegar , 375ml of vegetable oil

@@ -3,9 +3,8 @@ title: 🐄 beef stew with pale ale, juniper and prunes
 type: main
 protein: meat
 effort: weekend
-vibes: 🥔,🍬,🍄
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 tsp juniper berries , ½ tsp black peppercorns , Flaky sea salt , 900g beef brisket, in 2 pieces , 2 tbsp olive oil , 500g baby shallots, peeled and left whole , 4 garlic cloves, peeled , 5g picked thyme leaves , 500ml pale ale , 2 tbsp date syrup (40g) , 1 tbsp wholegrain mustard , 600g small waxy potatoes (desiree or charlotte), peeled and cut into 3cm chunks , 10 large pitted prunes (about 100g-worth) , The finely grated zest of ½ lemon , 80g soured cream, to serve

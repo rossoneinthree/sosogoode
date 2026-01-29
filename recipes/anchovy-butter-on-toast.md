@@ -3,9 +3,8 @@ title: 🐟 anchovy butter on toast
 type: breakfast
 protein: pescatarian
 effort: weeknight
-vibes: 🌶️,🧂,🍋
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 200 g Tinned anchovies  , 100 g soft butter , 4 slices bread , 4 eggs , 30g parsley , olive oil , pepper

@@ -3,8 +3,8 @@ title: 🥚 Asparagus, fried egg on toast with parmesan
 type: breakfast
 protein: vegetarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 asparagus , eggs , bread , parmesan , butter , salt

@@ -3,9 +3,8 @@ title: 🐟 Baked sea bream with garlic and rosemary recipe
 type: main
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 40

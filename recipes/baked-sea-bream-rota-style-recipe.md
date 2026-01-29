@@ -3,9 +3,8 @@ title: 🐟 Baked sea bream Rota-style recipe
 type: main
 protein: pescatarian
 effort: weekend
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 90

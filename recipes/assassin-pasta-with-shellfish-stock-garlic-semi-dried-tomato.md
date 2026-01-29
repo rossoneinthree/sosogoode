@@ -3,9 +3,8 @@ title: 🦐 Assassin Pasta with Shellfish Stock, Garlic & Semi-Dried Tomato
 type: main
 protein: pescatarian
 effort: weeknight
-vibes: 🌎,🌶️,🍷
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 •	200g dried spaghetti (or pasta of your choice) , 	•	3 tbsp olive oil , 	•	2–3 garlic cloves, thinly sliced , 	•	4 sun-dried tomatoes in oil, finely chopped , 	•	2 fresh tomatoes, grated or finely chopped , 	•	500–600ml shellfish stock (hot) , 	•	Salt, to taste

@@ -3,9 +3,8 @@ title: 🍫 Banoffee Pie
 type: dessert
 protein:
 effort: weeknight
-vibes: 🍬,🥔
+vibes: 🇪🇺
 ---
-
 ## Method
 
 1

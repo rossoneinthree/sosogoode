@@ -3,8 +3,8 @@ title: 🥗 Aeolian-style Summer Salad
 type: salad
 protein: vegetarian
 effort: weeknight
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 10 medium-sized, medium-ripe, sweet red tomatoes (vine-ripened are best), sliced into rounds medium-ripe, sweet red tomatoes (vine-ripened are best), sliced into rounds , 2 tablespoons plump capers , 2 handfuls of pitted green olives , 2 tropea onions or small red onions, finely sliced , 6 anchovies in oil, chopped , 1 tablespoon oregano leaves , 10 basil leaves, torn , For the vinaigrette , 2 tablespoons saba (grape must) or balsamic vinegar , 4 tablespoons extra virgin olive oil , sea salt and freshly ground black pepper

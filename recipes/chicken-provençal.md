@@ -3,8 +3,8 @@ title: 🐔 Chicken Provençal
 type: main
 protein: meat
 effort: weekend
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Ingredients
 
 Garlic , White wine , Olive oil (at least 4 tbsp, divided) , Thyme , 2 tbsp flaky salt , Plum tomatoes , Tomato purée , Herbs (unspecified, likely herbes de Provence or similar) , Fennel seeds , Chicken stock , Celery , Button onions , Artichokes , Olives , Chicken Thighs

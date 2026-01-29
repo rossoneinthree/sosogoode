@@ -1,9 +1,8 @@
 ---
 title: 🐟 Black Cod with Miso Recipe
 protein: pescatarian
-vibes: 🌎
+vibes: 🥢
 ---
-
 **Chef:** Food & Wine’s Editorial Guidelines
 
 **Source:** [https://www.foodandwine.com/recipes/black-cod-miso](https://www.foodandwine.com/recipes/black-cod-miso)

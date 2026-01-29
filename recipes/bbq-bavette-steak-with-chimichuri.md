@@ -3,8 +3,8 @@ title: 🥩 BBQ bavette steak with chimichuri
 type: main
 protein: meat
 effort: weeknight
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Ingredients
 
 800g/1lb 12oz beef bavette, cut into 4 steaks , 100ml/3½fl oz extra virgin olive oil, plus extra for cooking , garlic , parsley , oregano , red wine vinegar , fresh chili , salt , pepper , olive oil

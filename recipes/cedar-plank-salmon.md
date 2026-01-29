@@ -1,9 +1,8 @@
 ---
 title: 🐟 Cedar-Plank Salmon
 protein: pescatarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Bill Jones
 
 **Source:** [https://www.epicurious.com/recipes/food/views/cedar-plank-salmon-354516](https://www.epicurious.com/recipes/food/views/cedar-plank-salmon-354516)

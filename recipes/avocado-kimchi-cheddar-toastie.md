@@ -3,9 +3,8 @@ title: 🥑🧀 avocado, kimchi, cheddar toastie
 type: snack
 protein: vegetarian
 effort: weeknight
-vibes: 🍄,🍟
+vibes: 🥢
 ---
-
 ## Ingredients
 
 4 slices of sandwich bread , 2 1/2 tablespoons butter at room temperature (see note 1) , 2/3 cup shredded extra sharp cheddar cheese , 1/2 cup kimchi, chopped , 3 tablespoons chopped scallions , 1 tablespoon gochujang , 1 1/2 teaspoons honey , 1/2 teaspoon sesame oil , 1 large avocado , 1 1/2 tablespoons lime juice , 1/4 teaspoon garlic powder , 1/4 teaspoon salt

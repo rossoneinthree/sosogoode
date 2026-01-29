@@ -3,9 +3,8 @@ title: 🫘 cannellini ‘butter’ beans with rosemary and garlic
 type: side
 protein: vegetarian
 effort: weeknight
-vibes: 🌎,🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 - 1–2 cloves garlic, grated , - 1 tin cannellini beans , - a small knob of butter , - a few sprigs of rosemary, leaves finely sliced , - good extra virgin olive oil , - salt

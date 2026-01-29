@@ -3,9 +3,8 @@ title: 🍰 banana, blueberry and pecan pancakes
 type: breakfast
 protein: vegetarian
 effort: weeknight
-vibes: 🥔,🍬
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 100g oats , a good handful of pecan nuts (about 50g), roughly chopped , 1 teaspoon baking powder , a pinch of sea salt , 1 ripe banana, peeled and mashed , 150ml coconut milk or almond milk (see note above) , a 200g punnet of blueberries , To serve , 2 bananas, peeled and cut into thin slices , a little coconut oil or butter , a few pecan nuts, crumbled , lime wedges , honey or agave syrup

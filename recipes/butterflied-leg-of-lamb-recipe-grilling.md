@@ -3,9 +3,8 @@ title: 🐑 Butterflied Leg of Lamb Recipe | Grilling
 type: main
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🍆 🇪🇺
 ---
-
 ## Ingredients
 
 1/2 cup tahini , 2 cloves garlic, peeled and crushed , 1/2 cup fresh lemon juice (3 to 4 lemons) , 1 cup loosely packed mint leaves , 1/2 cup olive oil , 4 tablespoons water , 1 1/2 teaspoons coarsely ground black pepper , 3/4 teaspoon sherry vinegar , 1/4 teaspoon cayenne , Salt, to taste , 3 1/4 pounds shank half of a butterflied leg of lamb , 3 lemons, thinly sliced , Fresh mint, for garnish

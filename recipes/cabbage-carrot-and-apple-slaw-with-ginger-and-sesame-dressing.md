@@ -4,9 +4,8 @@ with ginger and sesame dressing
 type: salad
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🥢 🍆
 ---
-
 ## Ingredients
 
 ½ small cabbage, finely shredded , 2 carrots, julienned or coarsely grated , 1 large apple, julienned or coarsely grated and sprinkled with cider vinegar (this stops the apple browning) , 4 spring onions, finely sliced, green parts included , 1 tbsp sesame seeds, toasted in a dry frying pan until golden , handful coriander leaves, coarsely chopped , for the dressing , 3 tbsp olive oil , 1 tbsp cider vinegar , 1 tbsp soy sauce , 1 tsp sesame oil , 3cm fresh ginger, peeled and finely grated , salt and pepper

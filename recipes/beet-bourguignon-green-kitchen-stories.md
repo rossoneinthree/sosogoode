@@ -2,9 +2,8 @@
 title:  Beet Bourguignon — Green Kitchen Stories
 type: main
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺 🇮🇳
 ---
-
 **Chef:** Green Kitchen Stories
 
 **Source:** [https://greenkitchenstories.com/beet-bourguignon/](https://greenkitchenstories.com/beet-bourguignon/)

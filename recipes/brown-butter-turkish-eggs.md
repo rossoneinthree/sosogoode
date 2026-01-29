@@ -3,9 +3,8 @@ title: 🥚 Brown Butter Turkish Eggs
 type: breakfast
 protein: vegetarian
 effort: weeknight
-vibes: 🍋,🌎
+vibes: 🍆 🇮🇹
 ---
-
 ## Ingredients
 
 For the brown butter , 100g butter , 2 cloves garlic , 1 shallot , 1 tbsp aleppo pepper , For the yoghurt , 150g greek yoghurt , Handful of fresh mint leaves , 1/2 clove of garlic , Juice of half a lemon , 3 eggs poached , salt and pepper , Toasted sourdough

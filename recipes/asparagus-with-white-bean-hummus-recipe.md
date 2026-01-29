@@ -2,9 +2,8 @@
 title: 🥗 Asparagus with White Bean Hummus Recipe
 type: starter
 protein: vegetarian
-vibes: 🌎
+vibes: 🍆 🇪🇺
 ---
-
 **Chef:** Joey O’Hare
 
 **Source:** [https://www.greatbritishchefs.com/recipes/asparagus-white-bean-hummus-recipe](https://www.greatbritishchefs.com/recipes/asparagus-white-bean-hummus-recipe)

@@ -3,9 +3,8 @@ title: 🥔 boulangere potatoes
 type: side
 protein: vegetarian
 effort: weeknight
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 ½kg floury potato such as Maris Piper or Desirée, peeled and sliced thinly, by hand or using a food processor , 2 onions thinly sliced , few thyme sprigs , 2 tbsp olive oil

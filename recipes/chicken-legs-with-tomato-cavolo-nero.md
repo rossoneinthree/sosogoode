@@ -3,8 +3,8 @@ title: 🐓 chicken legs with tomato & cavolo nero
 type: main
 protein: meat
 effort: weeknight
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Ingredients
 
 4 chicken legs , 400g cherry tomatoes , 2 tablespoons capers , 100g olives (pitted) ,  1 red chilli (sliced) , 200g cavolo nero (chopped) , 2 tablespoons olive oil , salt and pepper to taste

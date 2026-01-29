@@ -4,9 +4,8 @@ type: main
 protein: vegetarian
 effort: weekend
 date_added: 2025-01-28
-vibes: 🥕
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Ingredients
 
 - 300g dried chickpeas, soaked overnight in plenty of cold water

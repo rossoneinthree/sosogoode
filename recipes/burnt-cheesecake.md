@@ -3,9 +3,8 @@ title: 🍰 Burnt Cheesecake
 type: dessert
 protein: vegetarian
 effort: weekend
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 400g cream cheese , 50g goats curd , 140 g caster sugar , 1/4 orange zest , 2 whole eggs plus 1 yolk , 180ml double cream , 20g plain flour , roasted fruit creme fraiche to serve

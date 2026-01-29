@@ -2,9 +2,8 @@
 title: 🐟 Anchovy and sage fritters | Gourmet Traveller
 type: snack
 protein: pescatarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Emma Knowles
 
 **Source:** [https://www.gourmettraveller.com.au/recipe/snacks-sides/anchovy-and-sage-fritters-11699/](https://www.gourmettraveller.com.au/recipe/snacks-sides/anchovy-and-sage-fritters-11699/)

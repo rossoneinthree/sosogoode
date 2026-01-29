@@ -3,9 +3,8 @@ title: 🍰 butterscotch pot de creme
 type: dessert
 protein:
 effort: weekend
-vibes: 🧂,🍬
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 260

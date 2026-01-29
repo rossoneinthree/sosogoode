@@ -2,9 +2,8 @@
 title: 🐟 an anchovy fillet, on a slice of ricotta salata, on a ridged crisp.
 protein: pescatarian
 effort: weeknight
-vibes: 🧂
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 a single anchovy fillet , a slice of ricotta salata , a ridged ready salted crisp ideally italian

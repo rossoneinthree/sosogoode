@@ -3,9 +3,8 @@ title: 🍰 banana tarte tatin with pink peppercorns
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🍬,🌶️
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 50g butter softened , 1 vanilla pod split open and seeds scraped out , ½ tsp pink peppercorns , ½ tsp black peppercorns crushed in a mortar, , 100g caster sugar , 6 large ripe bananas peeled , 320g ready-rolled sheet of all-butter puff pastry

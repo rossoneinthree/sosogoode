@@ -2,9 +2,8 @@
 title: 🐔 Chicken Asado Recipe (Pollo Asado)
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🥑
 ---
-
 ## Info
 
 - **Total:** 270

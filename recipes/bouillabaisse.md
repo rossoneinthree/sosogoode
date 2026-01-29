@@ -2,8 +2,8 @@
 title: 🦐 Bouillabaisse
 type: main
 protein: pescatarian
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 Good olive oil, as needed , 4 to 8 thick slices good bread , 1 onion, chopped , 4 cloves garlic, chopped , 2 celery stalks, trimmed and chopped , 1 carrot, trimmed and chopped , 1 medium new potato, peeled and chopped , 1 small bulb fennel, trimmed and chopped , 1/4 teaspoon saffron, optional , 3 cups lobster or fish stock , 2 cups chopped tomatoes, with their juice (canned are okay) , Salt and pepper , 1 to 1 1/2 pounds chopped boneless fish and shellfish, preferably a variety , 8 littleneck clams , 8 mussels , 2 sea scallops , 2 tablespoons Pernod or other pastis, optional , Chopped fennel fronds, for garnish , Chopped basil or parsley, for garnish , Rouille, optional

@@ -3,9 +3,8 @@ title: 🥗 caesar salad
 type: salad
 protein: pescatarian
 effort: weeknight
-vibes: 🧂
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 7 whole anchovies , 2 garlic cloves, crushed , 3 tbsp dijon mustard , 1/4 cup Champagne Vinegar , 1 large egg , 1 cup neutral oil , A chunk of parmesan , 2 heads of romaine lettuce , Croutons , Maldon flaky sea salt ,  few anchovy fillets for garnish

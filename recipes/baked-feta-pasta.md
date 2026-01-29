@@ -3,9 +3,8 @@ title: 🍝 baked feta pasta
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🧂
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 1.1 litres cherry tomatoes (roughly 600–700g, or about 3 large handfuls) , 	•	80g sliced red onion (about ½ a small red onion) , 	•	120ml olive oil , 	•	4 cloves garlic, peeled (add more to taste) , 	•	2 tablespoons freshly squeezed lemon juice , 	•	1 tablespoon lemon zest (from 1 lemon) , 	•	½ teaspoon chilli flakes , 	•	½ teaspoon chilli flakes , 	•	½ teaspoon freshly ground black pepper , 	•	½ teaspoon Italian seasoning , 	•	½ teaspoon dried basil , 	•	½ teaspoon dried basil , 	•	¼ teaspoon sea salt , 	•	225g feta cheese (1 typical UK block) , 	•	340g penne pasta , 	•	1 large handful baby spinach (about 30g)

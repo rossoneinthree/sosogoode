@@ -3,8 +3,8 @@ title: 🐟 Anchoide
 type: side
 protein: pescatarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 15 salt anchovy fillets , Two teaspoons Dijon mustard , Two egg yolks , Juice of half a lemon , Three teaspoons balsamic vinegar , 250 millilitres vegetable oil , 100 millilitres olive oil
