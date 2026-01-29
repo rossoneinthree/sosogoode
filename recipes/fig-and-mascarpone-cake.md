@@ -3,9 +3,8 @@ title: 🍰 fig and mascarpone cake
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🍬,🥔
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 250g mascarpone , 180g caster sugar , 3 large eggs , 250g self-raising flour , 1 teaspoon baking powder , a pinch of salt , 8 fresh figs, stems removed, quartered , 1 tablespoon icing sugar

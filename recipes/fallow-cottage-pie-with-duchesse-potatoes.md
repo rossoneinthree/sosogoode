@@ -3,8 +3,8 @@ title: 🥩 Fallow Cottage Pie with Duchesse Potatoes
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 ### Filling

@@ -3,8 +3,8 @@ title: 🐑 Greek-style braised lamb shoulder
 type: main
 protein: meat
 effort: weekend
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Ingredients
 
 2 tbsp olive oil , Salt and black pepper , 1½kg bone-in lamb shoulder , 1 large onion, peeled and thinly sliced , 6 garlic cloves, peeled and minced , 1 small bunch fresh oregano (about 20g) , 1 tsp chilli flakes , 250ml white wine , 500ml chicken stock , Juice of 1 lemon

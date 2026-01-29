@@ -2,9 +2,8 @@
 title: 🥔 roast whole new potatoes – recipe
 type: side
 protein: vegetarian
-vibes: 🥔,🍟
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 500g small new potatoes , 1-2 tbsp olive oil (or neutral oil or animal fat) , Salt

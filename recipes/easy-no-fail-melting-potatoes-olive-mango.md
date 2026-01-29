@@ -2,9 +2,8 @@
 title: 🥔 Easy No Fail Melting Potatoes • Olive & Mango
 type: side
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Joanne Rappos
 
 **Source:** [https://www.oliveandmango.com/easy-no-fail-melting-potatoes/](https://www.oliveandmango.com/easy-no-fail-melting-potatoes/)

@@ -2,9 +2,8 @@
 title: 🐔 Gymkhana’s chicken butter masala – recipe
 type: main
 protein: meat
-vibes: 🌎
+vibes: 🇮🇳
 ---
-
 **Chef:** Karam Sethi
 
 **Source:** [https://www.theguardian.com/lifeandstyle/2014/jul/10/gymkhana-chicken-butter-masala-recipe](https://www.theguardian.com/lifeandstyle/2014/jul/10/gymkhana-chicken-butter-masala-recipe)

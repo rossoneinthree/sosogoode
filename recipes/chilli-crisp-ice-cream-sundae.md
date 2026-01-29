@@ -3,9 +3,8 @@ title: 🍰 Chilli Crisp Ice Cream Sundae
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🌶️,🍬
+vibes: 🥢 🇪🇺
 ---
-
 ## Ingredients
 
 vanilla ice cream

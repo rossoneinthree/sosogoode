@@ -3,9 +3,8 @@ title: 🍰 Rhubarb crumble – recipe | Felicity Cloake’s Masterclass
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 60

@@ -4,9 +4,8 @@ type: main
 protein: meat
 effort: weekend
 date_added: 2025-01-28
-vibes: 🌶️,🥥
+vibes: 🥢
 ---
-
 ## Ingredients
 
 - 6 shallots

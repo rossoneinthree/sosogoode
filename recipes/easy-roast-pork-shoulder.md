@@ -3,9 +3,8 @@ title: 🐷 easy roast pork shoulder
 type: main
 protein: meat
 effort: weekend
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 2kg pork shoulder joint , 1 tbsp vegetable oil , 1½ tsp fine sea salt , 1 large onion sliced

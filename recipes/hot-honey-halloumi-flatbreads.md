@@ -3,9 +3,8 @@ title: 🧀 Hot Honey Halloumi flatbreads
 type: snack
 protein: vegetarian
 effort: weeknight
-vibes: 🌶️,🍬
+vibes: 🍆 🇮🇹
 ---
-
 ## Ingredients
 
 halloumi , chili oil , honey , flatbread , tzatziki , pomegranate , coriander

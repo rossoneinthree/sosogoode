@@ -2,9 +2,8 @@
 title: 🐔 Katsu curry
 protein: vegetarian
 effort: weekend
-vibes: 🌎
+vibes: 🥢
 ---
-
 ## Info
 
 - **Total:** 65

@@ -3,9 +3,8 @@ title: 🍰 Easy Eton mess
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 300g fresh strawberries , 150g fresh raspberries , ½ tablespoon runny honey , 100g double cream , 100g low-fat Greek-style yoghurt , 100g shop-bought meringues

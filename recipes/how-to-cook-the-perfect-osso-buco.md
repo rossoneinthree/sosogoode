@@ -1,9 +1,8 @@
 ---
 title: 🐄 Osso buco
 protein: meat
-vibes: 🌎
+vibes: 🇮🇹
 ---
-
 **Chef:** Felicity Cloake
 
 **Source:** [https://www.theguardian.com/lifeandstyle/wordofmouth/2014/mar/06/how-to-cook-perfect-osso-buco](https://www.theguardian.com/lifeandstyle/wordofmouth/2014/mar/06/how-to-cook-perfect-osso-buco)

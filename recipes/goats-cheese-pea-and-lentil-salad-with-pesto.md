@@ -2,9 +2,8 @@
 title: 🥗 Goats cheese, pea and lentil salad with pesto.
 type: salad
 protein: vegetarian
-vibes: 🌎
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 150g small green lentils (such as de Puy) , 200g shelled peas , A small bunch of fresh basil , Olive oil - 2 tablespoons and a little extra , Pesto , 12 slices goat's cheese , Salt and freshly ground black pepper , Optional for cooking lentils: 1 carrot, 1 stick of celery, 1 onion, 1 bay leaf, 3 whole black peppercorns

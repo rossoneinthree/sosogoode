@@ -3,9 +3,8 @@ title: 🐷 chorizo Jam
 type: breakfast
 protein: meat
 effort: weeknight
-vibes: 🧂,🍬
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 vegetable oil , 1 onion diced , 2 cloves garlic crushed , 1 tsp ground allspice , chopped to make 2 tbsp thyme , 1 tbsp smoked paprika , 50ml balsamic vinegar , 2 tbsp tomato purée , 1 tbsp treacle , 200g cooking chorizo peeled and very finely chopped , to serve  Bread

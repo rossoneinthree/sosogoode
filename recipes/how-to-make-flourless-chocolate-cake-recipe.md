@@ -2,8 +2,8 @@
 title: 🍫 Flourless chocolate cake – recipe
 type: dessert
 protein: vegetarian
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 260g dark chocolate (about 70% cocoa content recommended) , Neutral oil, baking spray or butter, for greasing , 260g butter , 1 tbsp strong brewed coffee , 8 eggs , 100g soft light brown sugar , 160g caster sugar , 85g cocoa powder , ½ tsp fine salt , 2 tbsp cocoa nibs (optional)

@@ -3,9 +3,8 @@ title: 🐔 Lemon-tzatziki chicken | Jamie Oliver recipes
 type: main
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🇮🇹
 ---
-
 ## Info
 
 - **Total:** 150

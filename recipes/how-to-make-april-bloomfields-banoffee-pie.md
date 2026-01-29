@@ -2,9 +2,8 @@
 title: 🍰 Banoffee Pie - April Bloomfield’s
 type: dessert
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Mind of a Chef
 
 **Source:** [https://www.youtube.com/watch?v=oejTquMNeeE](https://www.youtube.com/watch?v=oejTquMNeeE)

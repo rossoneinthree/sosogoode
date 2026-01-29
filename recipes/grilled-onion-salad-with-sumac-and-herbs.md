@@ -2,9 +2,8 @@
 title: 🥗 Grilled Onion Salad with Sumac and Herbs
 type: salad
 protein: vegetarian
-vibes: 🌎
+vibes: 🍆
 ---
-
 **Chef:** Yasmin Khan
 
 **Source:** [https://www.saveur.com/grilled-onion-salad-with-sumac-and-herbs-recipe/](https://www.saveur.com/grilled-onion-salad-with-sumac-and-herbs-recipe/)

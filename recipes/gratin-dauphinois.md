@@ -3,9 +3,8 @@ title: 🥔 Gratin Dauphinois
 type: side
 protein: vegetarian
 effort: weekend
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 750g waxy potatoes (see step 1) , 250ml double cream , 100ml whole milk , 2 garlic cloves , Nutmeg , Butter, to grease , 50g gruyere, grated (optional)

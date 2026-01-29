@@ -2,9 +2,8 @@
 title: 🐔 Classic Roast chicken by Simon Hopkinson
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 90

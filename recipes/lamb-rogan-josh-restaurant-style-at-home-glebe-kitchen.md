@@ -2,9 +2,8 @@
 title: 🐑 lamb rogan josh - restaurant style at home - glebe kitchen
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🇮🇳 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 540

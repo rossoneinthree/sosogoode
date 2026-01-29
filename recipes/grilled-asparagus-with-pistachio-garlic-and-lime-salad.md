@@ -3,9 +3,8 @@ title: 🌱 Grilled asparagus with pistachio, garlic and lime salad
 type: salad
 protein: vegetarian
 effort: weeknight
-vibes: 🌎,🍋,🥗
+vibes: 🇪🇺
 ---
-
 ## Method
 
 Start by making the oil. Put the garlic and lime zest in a small pan, pour over the olive oil, then heat slowly to one side of the barbecue (or on the stovetop), until the garlic starts to fizz a little; take off the heat, add the salt and leave to infuse.

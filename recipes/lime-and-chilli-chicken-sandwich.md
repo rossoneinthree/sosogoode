@@ -2,9 +2,8 @@
 title: 🐔🥪 Lime and chilli chicken sandwich
 protein: meat
 effort: weeknight
-vibes: 🌎
+vibes: 🥑
 ---
-
 ## Info
 
 - **Total:** 25

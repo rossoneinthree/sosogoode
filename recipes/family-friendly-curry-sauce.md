@@ -1,8 +1,8 @@
 ---
 title:  Family-friendly curry sauce
 protein: vegetarian
+vibes: 🇮🇳
 ---
-
 ## Ingredients
 
 4 onions (400g) , 4 carrots (400g) , 4 cloves of garlic , 5cm piece of ginger , 2 heaped tablespoons tikka masala paste, or your favourite curry paste , 2 x 400g tins of quality plum tomatoes , 2 x 400g tins of chickpeas , 2 heaped tablespoons mango chutney , 2 x 400g tins of light coconut milk , 2 tablespoons olive oil , Sea salt , Black pepper

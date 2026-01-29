@@ -3,9 +3,8 @@ title: 🐟 Miso Glazed Black Cod
 type: main
 protein: pescatarian
 effort: weekend
-vibes: 🌎
+vibes: 🥢 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 1440

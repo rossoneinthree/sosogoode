@@ -3,9 +3,8 @@ title: 🍫 chocolate nemesis
 type: dessert
 protein: vegetarian
 effort: weekend
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 350 gms 70% dark chocolate broken into chunks, , 225 gm salted butter, , 5 large free-range eggs,  , 210 gm caster sugar divided into 2/3 cup and 1/3

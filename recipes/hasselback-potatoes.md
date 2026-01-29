@@ -3,9 +3,8 @@ title: 🥔 hasselback potatoes
 type: side
 protein: vegetarian
 effort: weekend
-vibes: 🥔,🧂,🍟
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 8 medium floury potatoes, such as maris pipers or king edwards (about 800g-1kg) , 6 garlic cloves, peeled , 3 bay leaves (optional) , 50g butter , 2 tbsp dry breadcrumbs, tossed with a little olive oil (optional)

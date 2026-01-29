@@ -2,8 +2,8 @@
 title: 🐟 Mackerel pâté and baked goats’ cheese recipe
 type: main
 protein: pescatarian
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 extra virgin olive oil , 8 mackerel fillets, all bones removed , few sprigs fresh rosemary, needles picked and chopped , few sprigs fresh thyme, leaves picked and chopped , 1 lemon, zest only , 2 tbsp crème fraîche , 2 tsp horseradish sauce , sea salt and freshly ground black pepper , 1 round goats’ cheese , 10 cherry tomatoes, halved , pinch fresh lavender , pinch thyme leaves , drizzle honey , baguette, sliced , 1 melon, sliced into wedges , charcuterie of your choice

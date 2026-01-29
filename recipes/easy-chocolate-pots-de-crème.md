@@ -2,8 +2,8 @@
 title: 🍫 Easy Chocolate Pots de Crème
 type: dessert
 protein: vegetarian
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 cup heavy cream , 1 cup whole milk , 5 large egg yolks , 6 ounces semisweet chocolate, chopped , 1/2 teaspoon espresso powder (optional) , 1/4 teaspoon kosher salt

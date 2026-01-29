@@ -3,8 +3,8 @@ title: 🐑 Lancashire Lamb Hotpot
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 ### For the Lamb

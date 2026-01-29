@@ -3,9 +3,8 @@ title: 🍰 Japanese Souffle Pancakes
 type: breakfast
 protein: vegetarian
 effort: weeknight
-vibes: 🥔,🍬
+vibes: 🥢
 ---
-
 ## Info
 
 - **Total:** 15

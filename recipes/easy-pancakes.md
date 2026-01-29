@@ -2,8 +2,8 @@
 title: 🍰 Easy pancakes
 type: breakfast
 protein: vegetarian
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 100g plain flour , 2 large eggs , 300ml milk , 1 tbsp sunflower or vegetable oil (plus extra for frying) , A pinch of salt

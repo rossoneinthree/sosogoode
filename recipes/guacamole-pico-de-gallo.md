@@ -3,9 +3,8 @@ title: 🥑 Guacamole & Pico de Gallo
 type: salad
 protein: vegetarian
 effort: weeknight
-vibes: 🌎,🌶️,🥗,🍋
+vibes: 🥑
 ---
-
 ## Method
 
 Before you start

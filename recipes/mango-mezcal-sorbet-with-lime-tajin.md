@@ -3,9 +3,8 @@ title: 🍰 Mango Mezcal Sorbet with Lime & Tajin
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🫚
+vibes: 🥑
 ---
-
 ## Method
 
 Make a mango sorbet with frozen mango pieces (the kind they sell to make

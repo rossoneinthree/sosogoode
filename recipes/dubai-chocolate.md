@@ -3,9 +3,8 @@ title: 🍫 Dubai chocolate
 type: snack
 protein: vegetarian
 effort: weekend
-vibes: 🍬
+vibes: 🍆
 ---
-
 ## Ingredients
 
 75g kataifi pastry, or Shredded Wheat , 180g dark chocolate, or milk chocolate, if you prefer, chopped , 10g coconut oil , 60g pistachios, shelled , 180g white chocolate, chopped , A large pinch of sea salt , 30g tahini

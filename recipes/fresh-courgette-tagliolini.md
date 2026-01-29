@@ -3,9 +3,8 @@ title: 🌿 fresh courgette tagliolini
 type: pasta
 protein: vegetarian
 effort: weeknight
-vibes: 🥗,🌶️,🍋
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Ingredients
 
 1 courgette , 2 portions taglioni , 100 g crème fraîche , 1 medium lemon (zested and juiced) , 2 tablespoons fresh mint, chopped , 1 small red chilli, finely chopped , 50 g parmesan, grated , Salt, to taste , Black pepper, to taste , 1 tbsp olive oil , 1744118975045x790845684180664300

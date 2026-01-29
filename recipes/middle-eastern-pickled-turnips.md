@@ -3,9 +3,8 @@ title: 💕 Middle Eastern Pickled Turnips
 type: side
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🍆
 ---
-
 ## Info
 
 - **Total:** 15

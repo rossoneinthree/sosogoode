@@ -3,8 +3,8 @@ title: 🐑 Herdwick Lamb shoulder, anchovy crumb, pickled shallots, mint oil
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 lamb shoulder (roughly 2kg - bone removed) , 12 anchovies , 3 garlic cloves , 5 sprigs rosemary , Maldon sea salt , 1/2 bottle white wine , For the Anchovy puree , 500ml whole milk , 100g cheddar , 100g Panko bread crumbs , 5 anchovies , 1 sprig rosemary , 2 garlic cloves (peeled) , For the pickled shallots , 200g round baby shallots , 200ml white wine vinegar , 200g sugar , 200ml water , For the mint oil , 1 bunch mint , 250ml olive oil , Salt , For the anchovy crumb , 100g panko bread crumbs , 50g butter , 6 anchovies (roughly cut)

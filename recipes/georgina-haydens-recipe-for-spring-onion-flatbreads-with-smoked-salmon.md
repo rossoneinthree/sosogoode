@@ -2,9 +2,8 @@
 title: 🐟 Georgina Hayden’s recipe for spring onion flatbreads with smoked salmon
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 35

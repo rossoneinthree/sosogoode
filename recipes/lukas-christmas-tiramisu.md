@@ -3,8 +3,8 @@ title: 🍫 LUKA'S CHRISTMAS TIRAMISU
 type: dessert
 protein: vegetarian
 effort: weekend
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 568ml Pot of Double Cream , 250g Tub of Mascarpone , 75ml of Marsala , 5 tbsp of Golden Caster Sugar , 300ml of Strong Coffee , 2 x Pack of Sponge Fingers , 25g of Dark Chocolate , 2 tsp of Cocoa Powder , 2 x Drops of Vanilla Extract , 2 x Egg Yolks

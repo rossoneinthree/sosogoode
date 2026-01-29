@@ -3,9 +3,8 @@ title: 🥔 Double dressed potato salad
 type: salad
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Ingredients
 
 1.2kg	waxy potatoes, such as Anya or Yukon Gold, peeled and halved, or quartered if huge , 170g	petits pois or garden peas, fresh or frozen , 1	celery stick, trimmed (and if at all tough, slide a sharp vegetable peeler over the ribbed surface to destring it – it really is worth it, I promise), then finely diced , 30g	cornichons or gherkins, chopped , 6	hard-boiled eggs (see tip below) , 4	spring onions, trimmed and finely sliced a big handful of (about 20g)	 , ½ (about 180g)	a cucumber, cut into 1cm dice , a big handful of (about 20g)	fresh parsley, leaves and fine stems, roughly chopped , 	For the vinaigrette: , 3 tbsp	white wine vinegar , 2½ tbsp	Dijon mustard , ½ tsp	salt , A few grinds of	black pepper , 140ml	mild olive oil , For the dressing: , 70g	mild mayonnaise, such as Hellmann’s , 70g	thick Greek yoghurt , 1 tbsp	Dijon or wholegrain mustard – I like to use wholegrain here, for the pretty seeds , salt and freshly ground black pepper

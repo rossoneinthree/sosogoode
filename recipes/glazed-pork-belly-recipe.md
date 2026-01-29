@@ -2,9 +2,8 @@
 title: 🐷 Glazed Pork Belly Recipe
 type: main
 protein: meat
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Tom Aikens
 
 **Source:** [https://www.greatbritishchefs.com/recipes/glazed-pork-belly-recipe](https://www.greatbritishchefs.com/recipes/glazed-pork-belly-recipe)

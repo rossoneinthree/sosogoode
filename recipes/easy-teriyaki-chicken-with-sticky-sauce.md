@@ -3,9 +3,8 @@ title: 🐔 Easy Teriyaki Chicken {with Sticky Sauce}
 type: main
 protein: meat
 effort: weeknight
-vibes: 🌎
+vibes: 🥢 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 25

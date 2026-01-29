@@ -3,8 +3,8 @@ title:  Indian Curry Gravy – Hotel Style
 type: side
 protein: vegetarian
 effort: weekend
+vibes: 🇮🇳
 ---
-
 ## Ingredients
 
 - 1 cup neutral oil (e.g. canola)

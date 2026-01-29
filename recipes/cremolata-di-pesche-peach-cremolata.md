@@ -2,9 +2,8 @@
 title: 🍰 Cremolata di pesche (Peach Cremolata)
 type: dessert
 protein: vegetarian
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 **Chef:** Frank
 
 **Source:** [https://memoriediangelina.com/2021/09/04/cremolata-di-pesche-peach-cremolata/](https://memoriediangelina.com/2021/09/04/cremolata-di-pesche-peach-cremolata/)

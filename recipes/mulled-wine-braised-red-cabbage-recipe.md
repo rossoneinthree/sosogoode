@@ -2,9 +2,8 @@
 title: 🍷 Mulled Wine-Braised Red Cabbage Recipe
 type: side
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** GBC Kitchen
 
 **Source:** [https://www.greatbritishchefs.com/recipes/mulled-braised-red-cabbage-recipe](https://www.greatbritishchefs.com/recipes/mulled-braised-red-cabbage-recipe)

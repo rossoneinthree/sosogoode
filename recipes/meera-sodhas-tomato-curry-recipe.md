@@ -2,9 +2,8 @@
 title: 🍅 Meera Sodha’s tomato curry recipe
 type: main
 protein: vegetarian
-vibes: 🥔
+vibes: 🇮🇳 🇪🇺
 ---
-
 ## Ingredients
 
 1¼ tsp fennel seeds , 1¼ tsp black mustard seeds , 1¼ tsp cumin seeds , 1¼ tsp coriander seeds , Rapeseed oil , 2 onions, peeled, cut in half and finely sliced into half moons , 1¼ tsp salt , 8 curry leaves, plus extra to garnish , 1.2 kg tomatoes (ideally a mixture of 1kg vine and 200g yellow baby plum) , 1½ green finger chillies, very finely chopped , 4 garlic cloves, peeled and crushed , 2½ tsp tamarind paste , 400ml tin coconut milk

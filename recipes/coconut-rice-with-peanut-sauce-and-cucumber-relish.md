@@ -2,9 +2,8 @@
 title: 🍛 Coconut Rice with Peanut Sauce and Cucumber Relish
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺 🥢
 ---
-
 ## Ingredients
 
 Cucumber and Ginger Relish: , - 125ml rice vinegar (or other white vinegar) , - 80g caster sugar , - ½ cucumber, quartered lengthways, deseeded and thinly sliced (200g) , - 20g ginger, peeled and julienned , - 1 red chilli (or 2 bird’s-eye chillies, if you like it hot), halved, deseeded and thinly sliced lengthways , - 10g coriander, stems finely chopped, leaves roughly torn , - Salt, to taste , Peanut Sauce: , - 200g unsalted roasted peanuts , - 1 onion, roughly chopped (150g) , - 3–4 garlic cloves, roughly chopped , - 3–4 lemongrass stalks, white parts only , - 10g ginger, peeled and sliced , - 60g sambal oelek , - 120ml vegetable oil , - 450ml water , - 2 tsp paprika , - 1 tsp ground coriander , - 50g caster sugar , - 80g tamarind purée (use either liquid tamarind concentrate or make your own from a block) , - Salt, to taste , Coconut Rice: , - 500g jasmine rice , - 1 x 400ml tin of coconut milk , - 6 fresh lime leaves, stalks removed, leaves cut thinly

@@ -2,9 +2,8 @@
 title: 🐟 Grilled mackerel with Korean chilli
 type: main
 protein: pescatarian
-vibes: 🌎
+vibes: 🇪🇺 🥢
 ---
-
 **Chef:** David Gingell
 
 **Source:** [https://www.olivemagazine.com/recipes/chef-recipes/grilled-mackerel-with-korean-chilli/](https://www.olivemagazine.com/recipes/chef-recipes/grilled-mackerel-with-korean-chilli/)

@@ -2,9 +2,8 @@
 title: 🥗 Lime and Chipotle Black Bean Tacos
 protein: vegetarian
 effort: weeknight
-vibes: 🫚,😶‍🌫️
+vibes: 🥑
 ---
-
 ## Ingredients
 
 2 cloves of garlic, peeled and finely chopped , olive oil , 1 teaspoon ground cinnamon , 1 teaspoon ground cumin , 1 teaspoon chipotle paste or 1 red chilli, finely chopped , 2 × 400g tins of black beans , sea salt and freshly ground black pepper , For the salsa , 20 cherry tomatoes , 1⁄2 a red chilli, deseeded and finely chopped , a few sprigs of fresh coriander, leaves picked , juice of 1⁄2 a lime extra virgin olive oil , For the guacamole , 1 avocado , juice of 1⁄2 a lime , For the crunch salad , 1 small apple , juice of 1⁄2 a lime , a few leaves of white cabbage or a little gem lettuce , 4 radishes, sliced , a few sprigs of fresh coriander

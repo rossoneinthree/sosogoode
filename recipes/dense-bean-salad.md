@@ -3,9 +3,8 @@ title: 🥗 dense bean salad
 type: salad
 protein: vegetarian
 effort: weeknight
-vibes: 🥗
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 Canned chickpeas , cannellini beans , Red onion , Bell peppers , Cucumber , Kalamata olives , vegan feta , Fresh parsley , salt , olive oil , lemon juice , oregano , dijon mustard , grated garlic , maple syrup

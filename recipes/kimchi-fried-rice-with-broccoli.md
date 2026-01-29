@@ -2,9 +2,8 @@
 title: 🥦 Kimchi Fried Rice With Broccoli
 type: main
 protein: vegetarian
-vibes: 🌎
+vibes: 🥢 🇪🇺
 ---
-
 **Chef:** Ismail Samad
 
 **Source:** [https://www.bonappetit.com/recipe/kimchi-fried-rice-with-broccoli](https://www.bonappetit.com/recipe/kimchi-fried-rice-with-broccoli)

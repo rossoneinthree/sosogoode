@@ -4,9 +4,8 @@ type: main
 protein: meat
 effort: weeknight
 date_added: 2025-01-28
-vibes: 🌶️,🥥,🍜
+vibes: 🥢
 ---
-
 ## Ingredients
 
 - 2 tbsp neutral oil, such as groundnut or avocado

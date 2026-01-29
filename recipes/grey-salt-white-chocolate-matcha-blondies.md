@@ -3,9 +3,8 @@ title: 🍫 grey salt, white chocolate, matcha blondies
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🍬,🧂
+vibes: 🥢
 ---
-
 ## Ingredients
 
 250g (1 cup + 2 tbsp) unsalted butter , 2 eggs , 300g (1½ cups) caster sugar , 2 tbsp vanilla extract , 240g (1½ cups) plain flour , 1 tbsp matcha powder , 1¼ tsp baking powder , 1¼ tsp sea salt , 200g (7oz) white chocolate, chopped , 	¼ tsp grey salt, for sprinkling

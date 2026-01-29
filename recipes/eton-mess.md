@@ -3,9 +3,8 @@ title: 🍰 eton mess
 type: dessert
 protein: vegetarian
 effort: weekend
-vibes: 🫚
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 80g of egg white , 80g of caster sugar , 80g of icing sugar , 1 handful of freeze-dried raspberries, optional , 2 punnets of raspberries , 200ml of cream, lightly whipped , 2 tbsp of raspberry jam , 25ml of raspberry liqueur, optional

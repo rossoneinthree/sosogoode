@@ -3,9 +3,8 @@ title: 🥪 Grilled Sourdough with Prosciutto and Stracciatella
 type: main
 protein: meat
 effort: weeknight
-vibes: 🥔
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 1 large sourdough loaf, cut in half horizontally about 1cm thick , olive oil, for brushing , 1 clove garlic, peeled , 100 grams thinly sliced prosciutto, or other cured meat , 250 grams fresh stracciatella or mozzarella in whey, well drained , sea salt and ground pepper , chilli flakes, for sprinkling

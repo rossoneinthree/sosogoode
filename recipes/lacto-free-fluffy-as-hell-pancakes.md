@@ -3,9 +3,8 @@ title: 🍰 Lacto free fluffy as hell pancakes
 type: breakfast
 protein: vegetarian
 effort: weeknight
-vibes: 🍬
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 250ml lacto free cream , 80 g of flour , 2/3 a teaspoon baking powder , 1/3 a teaspoon baking soda , 1/6 a teaspoon salt , 2/3 a teaspoon vanilla extract  , 18g sugar , 1 small egg or 2/3 of a large egg

@@ -2,9 +2,8 @@
 title: 🦆 Gordon Ramsay’s pan-fried duck breast is delicious
 type: main
 protein: meat
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Gordon Ramsay
 
 **Source:** [https://www.redonline.co.uk/food/recipes/a502262/gordon-ramsay-pan-fried-duck-breast/](https://www.redonline.co.uk/food/recipes/a502262/gordon-ramsay-pan-fried-duck-breast/)

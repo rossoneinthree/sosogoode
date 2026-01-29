@@ -3,9 +3,8 @@ title: 🐟 mackerel paté
 type: starter
 protein: pescatarian
 effort: weeknight
-vibes: 🧂,🍋
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 4 smoked mackerel fillets ,  2 tsp Dijon mustard ,  2 tbsp crème fraîche or yoghurt , ½ lemon juice and zest , 100g/2½oz unsalted butter (chopped) , half a bunch of dill or parsley , salt and pepper to taste
