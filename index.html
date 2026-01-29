@@ -143,6 +143,17 @@
             padding: 6px 12px;
         }
 
+        /* Vibe filters - gray outline when inactive, gray background when active */
+        .filter-button[data-filter="vibes"] {
+            border-color: #999;
+        }
+
+        .filter-button[data-filter="vibes"].active {
+            background: #999;
+            border-color: #999;
+            color: #fff;
+        }
+
         /* Recipe List */
         .recipe-count {
             font-size: 14px;
@@ -351,6 +362,17 @@
             <button class="filter-button" data-filter="effort" data-value="weeknight">Week</button>
             <button class="filter-button" data-filter="effort" data-value="weekend">Weekend</button>
         </div>
+
+        <!-- Vibe/Cuisine Filters -->
+        <div class="filter-group">
+            <button class="filter-button emoji" data-filter="vibes" data-value="🇪🇺">🇪🇺</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🇮🇹">🇮🇹</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🥢">🥢</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🥑">🥑</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🇮🇳">🇮🇳</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🍆">🍆</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🔀">🔀</button>
+        </div>
     </div>
 
     <!-- Recipe Detail (shown when a recipe is clicked) -->
@@ -510,10 +532,12 @@
                     recipe.dateAdded = dateMatch[1].trim();
                 }
 
-                // Parse vibes (emoji)
+                // Parse vibes (emoji) - handle both comma and space separated
                 const vibesMatch = frontmatter.match(/vibes:\s*(.+)/);
                 if (vibesMatch) {
-                    recipe.vibes = vibesMatch[1].split(',').map(v => v.trim());
+                    const vibesString = vibesMatch[1].trim();
+                    // Split by comma or space, filter out empty strings
+                    recipe.vibes = vibesString.split(/[,\s]+/).filter(v => v.length > 0);
                 }
 
                 // Extract time and serves for display
