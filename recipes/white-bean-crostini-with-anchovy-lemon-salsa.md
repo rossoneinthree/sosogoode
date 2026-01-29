@@ -3,9 +3,8 @@ title: 🐟 White bean crostini with anchovy & lemon salsa
 type: snack
 protein: pescatarian
 effort: weeknight
-vibes: 🧂,🥗,🍋
+vibes: 🇮🇹 🍆
 ---
-
 ## Ingredients
 
 400g tin cannellini beans, rinsed and drained , 2 tsp tahini , Grated zest and juice 1 lemon , 50ml olive oil , For the anchovy salsa , Handful fresh flatleaf parsley , 50g good quality anchovy fillets in olive oil, drained , 2 tbsp capers, drained , ½ garlic clove, finely grated , Grated zest and juice 1 lemon , 2-3 tbsp extra-virgin olive oil , 1 baguette

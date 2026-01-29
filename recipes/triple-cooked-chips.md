@@ -3,9 +3,8 @@ title: 🥔 Triple-cooked chips
 type: side
 protein: vegetarian
 effort: weekend
-vibes: 🍟,🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 kg Maris Piper potatoes, peeled and cut into chips (2 cm x 2 cm x 6 cm) , groundnut or grapeseed oil , salt

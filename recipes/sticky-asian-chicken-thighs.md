@@ -2,9 +2,8 @@
 title: 🐔 Sticky Asian Chicken Thighs
 protein: meat
 effort: weeknight
-vibes: 🌎
+vibes: 🥢
 ---
-
 ## Info
 
 - **Total:** 60

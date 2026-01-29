@@ -3,9 +3,8 @@ title: 🍜 vegan pad thai
 type: main
 protein: veg
 effort: weeknight
-vibes: 🧂,🫚,🥗,🍄,🍋
+vibes: 🥢
 ---
-
 ## Ingredients
 
 8 oz rice noodles, 2 tablespoons vegetable oil, 1 cup firm tofu (cubed), 2 cloves garlic (minced), 1 cup bean sprouts, 1 red bell pepper (sliced), 2 green onions (chopped), 1/4 cup peanuts (crushed), 3 tablespoons soy sauce, 2 tablespoons lime juice, 1 tablespoon brown sugar, 1 teaspoon sriracha (optional), fresh cilantro for garnish

@@ -1,9 +1,8 @@
 ---
 title: 🧀 Winter greens in a pecorino and roasted garlic emulsion
 protein: vegetarian
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 **Source:** [https://www.tiktok.com/@restaurantmaguk/video/7335866318882721057?_r=1&_t=8juQsWC2mwb](https://www.tiktok.com/@restaurantmaguk/video/7335866318882721057?_r=1&_t=8juQsWC2mwb)
 
 ### Drink Pairings

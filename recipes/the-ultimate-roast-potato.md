@@ -3,9 +3,8 @@ title: 🥔 the ultimate roast potato
 type: side
 protein: vegetarian
 effort: weeknight
-vibes: 🧂,🥔,🍟
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 Potatoes (low starch) , Neutral oil , Garlic , Rosemary , Thyme

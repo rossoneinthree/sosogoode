@@ -3,9 +3,8 @@ title: 🫘 spicy cannellini beans, leeks and eggs
 type: breakfast
 protein: vegetarian
 effort: weeknight
-vibes: 🌶️
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 105ml olive oil , 300g leeks (about 1-2), trimmed and finely sliced , 4 garlic cloves, peeled and roughly chopped , 1 green chilli, roughly chopped (pith and seeds removed if you prefer less heat) , 300g vine tomatoes (ie, about 4) , 10g coriander , 15g dill , 2 x 400g tins cannellini beans , 1½ tsp coriander seeds , ¾ tsp ground allspice , 1½ tbsp tomato paste , 1 tsp caster sugar , Salt and black pepper , 1½ tbsp lemon juice , 8 eggs , Toasted sourdough, to serve

@@ -2,9 +2,8 @@
 title: 🐟 Wild Fennel Pasta with Anchovies and Breadcrumbs - Mangia Bedda
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 35

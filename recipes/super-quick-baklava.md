@@ -3,9 +3,8 @@ title: 🍰 Super quick Baklava
 type: dessert
 protein: vegetarian
 effort: weeknight
-vibes: 🍬
+vibes: 🍆
 ---
-
 ## Info
 
 - **Total:** 40

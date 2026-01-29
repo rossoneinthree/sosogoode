@@ -2,9 +2,8 @@
 title: 🍰 Sticky Toffee Pudding Recipe | Hawksmoor
 type: dessert
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** Nick Brown
 
 **Source:** [https://thehawksmoor.com/sticky-toffee-pudding-recipe/](https://thehawksmoor.com/sticky-toffee-pudding-recipe/)

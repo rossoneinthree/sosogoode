@@ -3,9 +3,8 @@ title: 🍅 Tomato Sauce with Onion and Butter
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🥔
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Ingredients
 
 •	400g tin good peeled tomatoes , 	•	60g unsalted butter , 	•	1 onion, peeled and halved , 	•	Salt, enough but not too much

@@ -2,8 +2,8 @@
 title: 🥒 Spicy Korean Cucumber Salad
 type: side
 protein: meat
+vibes: 🥢
 ---
-
 ## Ingredients
 
 24 ounces (680g) cucumbers (Persian, Japanese, Korean, or English cucumbers) , 1 teaspoon kosher salt , 1 large shallot, thinly sliced , 2 scallions, sliced on a bias , 1 tablespoon white sesame seeds, toasted or roasted , 2 tablespoons gochujang (Korean red chile paste) , 1/2 tablespoon gochugaru (Korean red chile flakes) , 1 1/2 tablespoons toasted sesame oil , 1 tablespoon soy sauce , 1 tablespoon rice vinegar , 2 teaspoons agave nectar or organic cane sugar , 3 garlic cloves, minced or crushed with a press

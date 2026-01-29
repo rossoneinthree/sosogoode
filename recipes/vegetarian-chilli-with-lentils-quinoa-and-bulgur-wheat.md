@@ -3,9 +3,8 @@ title:  Vegetarian Chilli with Lentils, Quinoa and Bulgur Wheat
 type: main
 protein: vegetarian
 effort: weekend
-vibes: 🌶️
+vibes: 🥑
 ---
-
 ## Ingredients
 
 ### For the Chilli

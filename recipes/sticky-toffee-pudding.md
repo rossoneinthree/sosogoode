@@ -3,9 +3,8 @@ title: 🍰 sticky toffee pudding
 type: dessert
 protein: vegetarian
 effort: weekend
-vibes: 🍬
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 125g chopped dates , 3g bicarbonate of soda , 190ml boiling water , 55g unsalted butter , 65g light muscavado sugar , 65g dark muscavado sugar , 1 egg , 225g self-raising flour , 4g baking powder , a pinch of maldon sea salt , clotted cream, to serve , FOR THE TOFFEE SAUCE , 95g dark muscavado sugar , 30g light muscovado sugar , 125g unsalted butter , 125ml double cream , a pinch of maldon sea salt

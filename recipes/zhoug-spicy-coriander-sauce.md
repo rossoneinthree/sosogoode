@@ -2,9 +2,8 @@
 title: 🌱 Zhoug! (Spicy coriander Sauce)
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🍆
 ---
-
 ## Info
 
 - **Total:** 15

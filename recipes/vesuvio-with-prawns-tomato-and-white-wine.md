@@ -3,9 +3,8 @@ title: 🦐 Vesuvio with Prawns, Tomato and White Wine
 type: pasta
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 25

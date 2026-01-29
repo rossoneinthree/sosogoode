@@ -3,9 +3,8 @@ title:  Swiss Crisp Breads
 type: snack
 protein: vegetarian
 effort: weeknight
-vibes: 🍟
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 100g	pumpkin seeds , 100g	sunflower seeds , 75g	Sesame seeds , 75g	linseed , 200g	flour , 50 ml 	olive oiil , 50ml pumpkin seed oil (or olive) , 250 ml	boiling water

@@ -3,8 +3,8 @@ title: 🍛 super quick rice and eggs and kimchi
 type: main
 protein: vegetarian
 effort: weeknight
+vibes: 🥢
 ---
-
 ## Ingredients
 
 eggs , rice 40g per person , kimchi from a jar , spring onion , peanuts , hot sauce , optional -  gochujang paste  , optional - sesame seeds , soy sauce , optional finelt sliced carrot , optional - some little frozen dumpligs - steamed per instructions

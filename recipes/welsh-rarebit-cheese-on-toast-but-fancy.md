@@ -3,8 +3,8 @@ title: 🧀 Welsh Rarebit - cheese on toast but fancy
 type: breakfast
 protein: vegetarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 3 tsp English mustard powder , 9 tbsp stout , 90g butter , Worcestershire sauce, to taste , 525g lancashire cheese, grated  , 6 egg yolks , 6 slices bread

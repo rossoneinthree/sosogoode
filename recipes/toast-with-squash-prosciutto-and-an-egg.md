@@ -3,8 +3,8 @@ title: 🥚 toast with squash, prosciutto, and an egg
 type: breakfast
 protein: meat
 effort: weeknight
+vibes: 🇮🇹
 ---
-
 ## Method
 
 Heat your oven to 450F. Mince together the thyme and the garlic clove. Rub the cut sides of the squash with olive oil, the garlic and thyme, oregano, chile flakes, and several pinches of salt.

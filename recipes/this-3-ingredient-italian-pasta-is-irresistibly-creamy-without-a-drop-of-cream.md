@@ -2,9 +2,8 @@
 title: 🍝 This 3-Ingredient Italian Pasta Is Irresistibly Creamy — Without a Drop of Cream
 type: main
 protein: vegetarian
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 **Chef:** The Kitchn
 
 **Source:** [https://www.thekitchn.com/cacio-e-pepe-recipe-23635092](https://www.thekitchn.com/cacio-e-pepe-recipe-23635092)
