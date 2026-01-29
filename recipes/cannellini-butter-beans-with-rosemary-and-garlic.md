@@ -3,7 +3,7 @@ title: 🫘 cannellini ‘butter’ beans with rosemary and garlic
 type: side
 protein: vegetarian
 effort: weeknight
-vibes: 🇪🇺
+vibes: 🇪🇺 🇮🇹
 ---
 ## Ingredients
 

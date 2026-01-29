@@ -4,7 +4,7 @@ type: main
 protein: vegetarian
 effort: weekend
 date_added: 2025-01-28
-vibes: 🇪🇺 🇮🇹
+vibes: 🍆
 ---
 ## Ingredients
 

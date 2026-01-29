@@ -3,7 +3,7 @@ title: 🥩 BBQ bavette steak with chimichuri
 type: main
 protein: meat
 effort: weeknight
-vibes: 🇪🇺 🇮🇹
+vibes: 🇮🇹 🥑
 ---
 ## Ingredients
 

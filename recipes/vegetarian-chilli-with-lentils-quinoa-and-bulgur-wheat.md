@@ -1,5 +1,5 @@
 ---
-title:  Vegetarian Chilli with Lentils, Quinoa and Bulgur Wheat
+title:  Vegetarian Chilli by Anna Jones
 type: main
 protein: vegetarian
 effort: weekend
