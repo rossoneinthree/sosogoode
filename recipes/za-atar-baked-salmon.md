@@ -4,6 +4,7 @@ type: main
 protein: pescatarian
 effort: weeknight
 vibes: 🍆
+added: 2026-01-29
 ---
 
 ## Ingredients
