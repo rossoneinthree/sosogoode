@@ -3,9 +3,8 @@ title: 🍝 Crispy one-tin gnocchi with leeks and harissa
 type: pasta
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 25

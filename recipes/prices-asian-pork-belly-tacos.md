@@ -3,9 +3,8 @@ title: 🐷 PRICE's ASIAN PORK BELLY TACOS
 type: main
 protein: meat
 effort: weekend
-vibes: 🧂,🍄,🌶️
+vibes: 🥢 🥑
 ---
-
 ## Ingredients
 
 Pork belly. , Corn / Flour tortillas (worst case use Turkish Lavash bread and cut into smaller pieces or steamed bao buns if you prefer but personally i think they fill you up too quickly. , Would recommend making your own corn tortillas. They're fairly easy, find a recipe. Basically 2 cups maize flour, 1 ½ cups warm water. Make a dough, let it hydrate, cut into balls, then press them out with a tortilla press or folded grease proof paper and squish them round with a heavy bottomed saucepan. Fry in a little pork fat.

@@ -3,9 +3,8 @@ title: 🥬 PRICE's ‘CHEATS’ KIMCHI
 type: snack
 protein: vegetarian
 effort: weeknight
-vibes: 🫚
+vibes: 🥢
 ---
-
 ## Method
 
 Get a jar of sauerkraut / sliced cucumbers from your local Turkish shop.

@@ -3,8 +3,8 @@ title: 🐷 Mussels, Chorizo & Tomato Confit
 type: main
 protein: meat
 effort: weeknight
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Ingredients
 
 •	1.4 kg mussels (scrubbed and debearded) , 	•	250g chorizo (about 4 links, sliced ½ cm thick, then quartered) , 	•	120ml tomato confit (with oil, chopped) , 	•	2 tbsp shallot confit , 	•	6 cloves garlic confit, finely chopped , 	•	180ml dry white wine , 	•	180ml chicken stock , 	•	½ tsp crushed chilli flakes , 	•	A small bunch flat-leaf parsley, chopped (roughly 20g)

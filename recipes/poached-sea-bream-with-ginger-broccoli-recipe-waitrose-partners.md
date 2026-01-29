@@ -2,9 +2,8 @@
 title: 🐟 Poached Sea Bream With Ginger & Broccoli Recipe | Waitrose & Partners
 type: main
 protein: pescatarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Source:** [https://www.waitrose.com/ecom/recipe/poached-sea-bream-with-ginger-broccoli?srsltid=AfmBOopPfJ0bwZcRDOFh-6KJhZTfBNstjTqSHKJ5rbdc2nduB7mfuj8n](https://www.waitrose.com/ecom/recipe/poached-sea-bream-with-ginger-broccoli?srsltid=AfmBOopPfJ0bwZcRDOFh-6KJhZTfBNstjTqSHKJ5rbdc2nduB7mfuj8n)
 
 ### Drink Pairings

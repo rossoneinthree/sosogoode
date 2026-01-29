@@ -3,9 +3,8 @@ title: 🥔 potato galette
 type: side
 protein: vegetarian
 effort: weeknight
-vibes: 🥔,🍟
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 4 russet potatoes, scrubbed and patted dry , 1 cup melted Francis Mallmann's Clarified Butter , Coarse salt

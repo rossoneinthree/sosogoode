@@ -2,9 +2,8 @@
 title: 🥔 Robuchon’s Mashed Potatoes
 protein: vegetarian
 effort: weeknight
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 • 1kg floury potatoes (Maris Piper or similar) , • 450g unsalted butter, cold, cubed , • 250ml whole milk , • Salt to taste

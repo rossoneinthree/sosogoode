@@ -3,9 +3,8 @@ title: 🐟 savoury dutch baby with salmon, dill &  parmesan
 type: breakfast
 protein: pescatarian
 effort: weeknight
-vibes: 🍋
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 4 eggs , 180g milk , 90g plain flour , 1/4 tsp salt , 80g butter , 20g parmesan , 15g fresh parsley, dill & tarragon , To serve , 200g smoked salmon , 50g creme fraiche , 2tsp fresh dill , 1 tbsp lemon juice , 1 tsp lemon zest , 1/4 tsp salt

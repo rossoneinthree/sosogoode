@@ -2,9 +2,8 @@
 title: 🐔 rogan josh - indian hotel style - glebe kitchen
 type: main
 protein: meat
-vibes: 🌎
+vibes: 🇮🇳
 ---
-
 **Chef:** romain
 
 **Source:** [https://glebekitchen.com/rogan-josh-indian-hotel-style/](https://glebekitchen.com/rogan-josh-indian-hotel-style/)

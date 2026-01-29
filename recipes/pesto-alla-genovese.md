@@ -3,9 +3,8 @@ title: 🌱 Pesto alla Genovese
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🥗,🫚
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 • 50g fresh basil , • 30g Parmesan, grated , • 30g pine nuts (or almonds or walnuts or breadcrumbs) , • 1/2 small garlic clove (start there, trust me) , • 100ml extra-virgin olive oil , • Salt to taste

@@ -3,9 +3,8 @@ title: 🐟 perfect fish pie
 type: main
 protein: pescatarian
 effort: weekend
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1kg floury potatoes, eg Maris Piper or King Edwards , 50g butter , Splash of milk , 500ml fish stock , 100ml white wine , Small bunch of parsley, separated into leaves and stalks , 350g white fish fillets and / or salmon , 350g smoked white fish , 200g small peeled prawns , 50g butter , 50g butter , 200ml double cream , 2 anchovies, finely chopped , Handful of white breadcrumbs

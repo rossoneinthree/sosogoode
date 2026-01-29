@@ -3,9 +3,8 @@ title: 🐷 Pulled pork recipe | Jamie Oliver recipes
 type: main
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 ½ a higher-welfare pork shoulder, neck end with bone in (5kg) , olive oil , 2 heaped teaspoons smoked paprika, plus extra for sprinkling , ½ a bunch of fresh mint , 1-2 fresh red chillies , 6 tablespoons olive oil , 3 tablespoons red wine vinegar , ½ a white cabbage , 1 red onion , 3 carrots , 2 big handfuls of collard greens or spring cabbage , 3 crunchy eating apples , 2 tablespoons free-range mayonnaise , extra virgin olive oil , cayenne pepper , 4-5 tablespoons red wine vinegar , sea salt , black pepper

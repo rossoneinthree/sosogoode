@@ -2,9 +2,8 @@
 title:  Skillet Gnocchi With Miso Butter and Asparagus Recipe
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🥢 🇮🇹
 ---
-
 ## Info
 
 - **Total:** 25

@@ -3,8 +3,8 @@ title: 🐔🍢 overnight chicken thigh kebabs
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺 🍆
 ---
-
 ## Ingredients
 
 •	240ml plain whole milk Greek yogurt , 	•	30ml extra-virgin olive oil , 	•	2 tsp paprika , 	•	½ tsp ground cumin , 	•	⅛ tsp ground cinnamon , 	•	1 tsp crushed chilli flakes (use ½ tsp for milder heat) , 	•	Zest of 1 lemon , 	•	30ml freshly squeezed lemon juice (from 1 lemon) , 	•	1¾ tsp fine sea salt , 	•	½ tsp freshly ground black pepper , 	•	5 garlic cloves, finely minced , 	•	1.1 to 1.4kg boneless, skinless chicken thighs, trimmed and cut into 4cm pieces , 	•	1 large red onion, cut into 2.5cm chunks , 	•	Vegetable oil, for greasing the grill

@@ -2,9 +2,8 @@
 title: 🥩 Reverse-Seared Steak
 protein: meat
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Method
 
 Generously season steak(s) all over with salt and pepper. If desired, set steak(s) on a wire rack set in a rimmed baking sheet and refrigerate, uncovered, overnight to dry out the exterior. Otherwise, proceed with the next step.

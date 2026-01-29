@@ -2,8 +2,8 @@
 title: 🦆 Roast Duck with a Cherry and Red Wine Sauce
 type: main
 protein: meat
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 Gressingham Duck® crown or whole duck , 12 pitted cherries , 50g caster sugar , 3 tablespoons red wine vinegar , 400ml chicken stock , 175ml glass of red wine , Teaspoon cherry or redcurrant jam (optional)

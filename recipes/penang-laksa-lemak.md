@@ -3,9 +3,8 @@ title: 🐟 PENANG LAKSA LEMAK
 type: main
 protein: pescatarian 
 effort: weekend
-vibes: 🌎
+vibes: 🥢
 ---
-
 ## Method
 
 Blend spice paste ingredients with ¼ cup (60ml) water. Transfer to a bowl.

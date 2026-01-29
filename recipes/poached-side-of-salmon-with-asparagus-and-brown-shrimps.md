@@ -3,9 +3,8 @@ title: 🐟 Poached Side of Salmon with Asparagus and Brown Shrimps
 type: main
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 butter, for greasing , side of salmon fillet, skin on , small bunch of dill , 50 ml white wine , juice of 1 lemon , salt and freshly ground black pepper , For the dressing: , 1/2 banana shallot, finely diced , 2 tsp Dijon mustard , 3 tbsp white wine vinegar , 150ml light olive oil , 1 tsp caster sugar , 1 bunch of dill, chopped , To garnish: , 20 asparagus tips, cut in half , 100 peeled cooked brown shrimps, patted dry , pink radishes, sliced, or pink micro herbs

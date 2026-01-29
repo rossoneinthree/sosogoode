@@ -2,9 +2,8 @@
 title: 🐟 mustardy mackerel fishcakes — eat the right stuff
 type: main
 protein: pescatarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** abby dyson
 
 **Source:** [https://www.eattherightstuff.com/blog/2007/3/2/mustardy-mackerel-fishcakes.html?rq=mackerel](https://www.eattherightstuff.com/blog/2007/3/2/mustardy-mackerel-fishcakes.html?rq=mackerel)

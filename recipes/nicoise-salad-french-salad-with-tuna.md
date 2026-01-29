@@ -2,9 +2,8 @@
 title: 🥗 Nicoise Salad (French Salad with Tuna)
 type: salad
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Ingredients
 
 8 baby/chat potatoes , 120g (4 oz) green beans, trimmed , 2 tomatoes, each cut into 8–10 wedges , 1/2 baby cos lettuce (romaine), cut or torn into large bite-size pieces , 3 hard-boiled eggs, peeled and quartered , 3/4 cup (100g) unpitted black olives , 250–300g (8–10 oz) canned chunk tuna in oil, drained and broken into large chunks , 1 1/2 tbsp lemon juice , 4 tbsp extra virgin olive oil , 1 small garlic clove, minced/grated , 1/4 tsp salt , 1 tsp Dijon mustard , Pinch black pepper

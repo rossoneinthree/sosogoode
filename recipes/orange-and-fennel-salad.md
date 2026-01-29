@@ -3,9 +3,8 @@ title: 🥗🍊 Orange and fennel salad
 type: salad
 protein: vegetarian
 effort: weeknight
-vibes: 🥗,🍋
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 8 oranges, peeled, pith removed, cut into rounds , 3–4 fennel bulbs, thinly sliced, fronds reserved , 100g black roasted olives , For the dressing , 5 tbsp olive oil , Juice of ½ lemon, strained , 2 tbsp chopped flat-leaf parsley , 1 tsp fennel seeds (optional) , Salt and black pepper

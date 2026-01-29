@@ -3,8 +3,8 @@ title: 🐔 Sambal Spiced Chicken
 type: main
 protein: meat
 effort: weekend
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 - 8 chicken thighs, bone in, skin on, and lightly scored (approx. 1kg) , Spice Rub: , - 2 tbsp ground coriander , - 1½ tsp ground cumin , - 1½ tsp ground turmeric , - 1 tsp fennel seeds, finely crushed , - 2 tbsp maple syrup , - 2 tbsp lime juice , - 1 tbsp sambal oelek , - 1½ tsp peanut oil (or vegetable oil) , - 1½ tsp salt , To Serve: , - Peanut sauce (see note) , - 1 lime, cut into wedges

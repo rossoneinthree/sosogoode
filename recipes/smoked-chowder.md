@@ -3,9 +3,8 @@ title: 🐟 Smoked Chowder
 type: main
 protein: pescatarian
 effort: weeknight
-vibes: 🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 25g unsalted butter , 1 large onion, peeled and sliced , 1 large leek, trimmed and finely sliced , 400ml fish stock , 400ml milk , 300g smoked pollack fillet , 250g potatoes, peeled and cut into small chunks , 2 sweetcorn cobs , 2 sweetcorn cobs , Parsley, to garnish

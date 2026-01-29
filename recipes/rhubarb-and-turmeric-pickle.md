@@ -2,9 +2,8 @@
 title:  Rhubarb and turmeric pickle
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇳
 ---
-
 ## Ingredients
 
 •	750g (1½ lb) rhubarb , 	•	5 dried red chillis , 	•	1 tbsp ground turmeric , 	•	25g (1oz) ginger, grated , 	•	25g (1oz) garlic, grated , 	•	110ml (½ cup) vegetable oil , 	•	1 tsp each of fenugreek, cumin and mustard seeds , 	•	4 fresh green chillis, chopped finely , 	•	450ml (scant 2 cups) white malt vinegar – you might not use it all , 	•	1 tbsp salt

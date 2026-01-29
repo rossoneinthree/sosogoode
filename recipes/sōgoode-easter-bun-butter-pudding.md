@@ -3,8 +3,8 @@ title: 🍫 SōGoode easter bun & butter pudding
 type: dessert
 protein: vegetarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 ingredients:   • 6 slices Jamaican bun (or ~250g), thick-cut   • 2 hot cross buns, torn into chunks   • butter, softened (enough for spreading)   • zest of 1 orange   • 3 eggs   • 350ml whole milk   • 150ml double cream   • 50g light brown sugar   • 1 tsp vanilla extract   • optional: splash of dark rum   • 8–10 mini chocolate eggs, halved   • extra: apricot jam, for glazing

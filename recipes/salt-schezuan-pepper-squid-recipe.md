@@ -2,9 +2,8 @@
 title: 🦑 Salt & Schezuan Pepper Squid Recipe
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🥢 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 20

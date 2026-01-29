@@ -2,8 +2,8 @@
 title: 🐑 Provençal-Style Braised Lamb Shoulder Recipe
 type: main
 protein: meat
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Ingredients
 
 2kg lamb shoulder joint, bone-in , 3 onions , 4 garlic cloves , A handful of rosemary, leaves only , 4 tomatoes , 6 anchovy fillets , 200ml dry white wine , 3 x 400g tins of cannellinii beans , 1 chicken stock cube , 80g black olives , A handful of oregano, leaves only , 1 lemon , 50g rocket , Olive oil , Salt and pepper

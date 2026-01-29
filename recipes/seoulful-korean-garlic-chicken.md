@@ -4,9 +4,8 @@ type: main
 protein: meat
 effort: weekend
 date_added: 2025-01-26
-vibes: 🌶️,🥔,🧄
+vibes: 🥢
 ---
-
 ## Ingredients
 
 - 4 tbsp gochujang paste

@@ -3,9 +3,8 @@ title: 🐄 Slow-cooker beef curry
 type: main
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 1 onion , 2 cloves of garlic , 4cm piece of ginger , ½ a bunch of fresh coriander (15g) , 2 mixed-colour peppers , 100g cherry tomatoes , 500g higher-welfare diced braising steak , olive oil , ½ x 180g jar of your favourite curry paste , ½ x 400g tin of light coconut milk , sea salt , black pepper , 200ml water (approx., to cover beef)

@@ -3,9 +3,8 @@ title: 🐔 Roast Potato & Crisp-Topped Chicken Pie
 type: main
 protein: meat
 effort: weekend
-vibes: 🍟,🥔
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 - 500g cooked chicken (shredded or chopped) , - 1 onion, diced , - 2 garlic cloves, minced , - 200g mushrooms, sliced (optional) , - 1 tin of cream of chicken soup (or make a quick white sauce) , - 1 tin of cream of chicken soup (or make a quick white sauce) , - 1 tsp Dijon mustard (optional) , - Handful of frozen peas , - Handful of frozen peas or sweetcorn , - Olive oil, salt, pepper , - 1 bag of crisps (cheese & onion or smoky bacon = elite) , - Butter for frying

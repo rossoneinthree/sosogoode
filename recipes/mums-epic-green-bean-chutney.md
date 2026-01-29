@@ -3,8 +3,8 @@ title: 🫛 Mums epic Green Bean Chutney
 type: side
 protein: vegetarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 •	4 lb green beans , 	•	2 lb chopped onions , boil , 	•	3 cups vinegar , 	•	2 tablespoons chilli powder , 	•	2 dessertspoons coriander , 	•	4 cups sugar , 	•	1 dessertspoon salt

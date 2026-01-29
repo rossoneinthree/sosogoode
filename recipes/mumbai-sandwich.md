@@ -2,9 +2,8 @@
 title: 🥪 Mumbai Sandwich
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇳
 ---
-
 ## Info
 
 - **Total:** 60

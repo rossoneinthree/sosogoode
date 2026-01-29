@@ -2,9 +2,8 @@
 title: 🐔 Price's Dry Spice Chicken Wings
 protein: meat
 effort: weeknight
-vibes: 🌶️
+vibes: 🇪🇺
 ---
-
 ## Method
 
 Large pack of chicken wings

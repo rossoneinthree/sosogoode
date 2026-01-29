@@ -2,9 +2,8 @@
 title: 🐄 Smoke brisket with Neil Rankin of Smokehouse Chiswick
 protein: meat
 effort: weekend
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 360

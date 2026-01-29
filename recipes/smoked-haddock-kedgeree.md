@@ -3,9 +3,8 @@ title: 🐟 Smoked haddock kedgeree
 type: breakfast
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇳 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 45

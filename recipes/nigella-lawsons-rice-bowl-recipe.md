@@ -1,8 +1,8 @@
 ---
 title: 🍛 Nigella Lawson's rice bowl recipe
 protein: vegetarian
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 Cooked rice (enough for your serving) , Mixed seeds (such as sesame, sunflower, or pumpkin seeds) , Fresh herbs (such as coriander, parsley, or chives) , Radishes, sliced , Avocado, sliced

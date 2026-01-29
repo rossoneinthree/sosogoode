@@ -3,9 +3,8 @@ title: 🐑 Arancine | A kitchen in Rome
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 45

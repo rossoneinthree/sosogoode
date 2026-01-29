@@ -3,9 +3,8 @@ title: 🍝 Pappardelle with rose harissa, black olive and capers
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🌶️,🥗
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 2 tbsp olive oil , 1 large onion, thinly sliced (220g) , 3 tbsp 	rose harissa (or 50% more or less, depending on variety: see p.301) (45g) , 400g cherry tomatoes, halved , 50g pitted Kalamata olives, torn in half , 20g baby capers , 500g 	dried pappardelle pasta (or another wide, flat pasta) , 15g parsley, roughly chopped , 120g greek-style yoghurt , 1744118975045x790845684180664300

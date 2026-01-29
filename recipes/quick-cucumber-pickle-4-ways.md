@@ -3,8 +3,8 @@ title: 🥒 Quick cucumber pickle 4 ways
 type: snack
 protein: vegetarian
 effort: weeknight
+vibes: 🥢
 ---
-
 ## Ingredients
 
 oil - olive, sesame or neutral , cucumber i like the small persian ones. , grated or crushed garlic , acid, lemon juice, rice vinegar or even white wine , pepper , gochujang or chili , dill

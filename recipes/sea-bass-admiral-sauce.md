@@ -3,9 +3,8 @@ title: 🐟 sea bass admiral sauce
 type: main
 protein: pescatarian
 effort: weeknight
-vibes: 🥗,🍋
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 Sea Bass , Butter , Capers , Lemon , Lemon zest , parsley , salt pepper

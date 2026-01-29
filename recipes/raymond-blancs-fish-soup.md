@@ -2,9 +2,8 @@
 title: 🐟 Raymond Blanc’s fish soup
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇮🇹 🇪🇺
 ---
-
 ## Info
 
 - **Total:** 45

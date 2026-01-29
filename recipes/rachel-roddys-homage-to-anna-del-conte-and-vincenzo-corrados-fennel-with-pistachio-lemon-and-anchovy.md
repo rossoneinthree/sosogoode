@@ -3,9 +3,8 @@ title: 🐟 Rachel Roddy’s homage to Anna del Conte and Vincenzo Corrado’s f
 type: pasta
 protein: pescatarian
 effort: weeknight
-vibes: 🌎
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Info
 
 - **Total:** 55

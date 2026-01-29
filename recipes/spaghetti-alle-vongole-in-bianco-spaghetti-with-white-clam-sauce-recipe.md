@@ -3,9 +3,8 @@ title: 🍝🐟 Spaghetti Alle Vongole in Bianco (Spaghetti With White Clam Sauc
 type: pasta
 protein: pescatarian
 effort: weekend
-vibes: 🌎
+vibes: 🇮🇹
 ---
-
 ## Info
 
 - **Total:** 90

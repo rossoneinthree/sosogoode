@@ -2,9 +2,8 @@
 title: 🍄‍🟫🧀 Mushroom risotto
 type: main
 protein: vegetarian
-vibes: 🌎
+vibes: 🇪🇺 🇮🇹
 ---
-
 ## Ingredients
 
 50g dried porcini mushrooms , 1 vegetable stock cube , 2 tbsp olive oil , 1 onion, finely chopped , 2 garlic cloves, finely chopped , 250g pack chestnut mushrooms, chopped , 300g risotto rice such as arborio , 1 x 175ml glass white wine , 25g butter , Handful parsley leaves, chopped , 50g parmesan or Grana Padano, freshly grated , Salt and pepper, to taste

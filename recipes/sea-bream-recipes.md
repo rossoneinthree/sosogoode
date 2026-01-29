@@ -1,9 +1,8 @@
 ---
 title: 🐟 Sea bream recipes
 protein: pescatarian
-vibes: 🌎
+vibes: 🇪🇺
 ---
-
 **Chef:** BBC Food team
 
 **Source:** [https://www.bbc.co.uk/food/sea_bream](https://www.bbc.co.uk/food/sea_bream)

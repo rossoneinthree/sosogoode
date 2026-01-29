@@ -3,8 +3,8 @@ title: 🍅 Paneer Butter Masala
 type: main
 protein: vegetarian
 effort: weeknight
+vibes: 🇮🇳
 ---
-
 ## Ingredients
 
 Rapeseed oil , 500g	hard paneer, cut into 2cm cubes , 3 tbsp	unsalted butter , 1	large brown onion, finely chopped , 4cm	ginger, peeled and grated , 6	cloves of garlic, crushed , 800g	tomato passata , 1 tbsp	kasoori methi (dried fenugreek leaves) , 1 tsp	ground cinnamon , ¼ tsp	ground cloves , ½ tsp	chilli powder , 2 tbsp	honey , 1½ tsp	salt , 250g	peas (fresh or defrosted) , 100ml	double cream (plus extra to serve) , A handful	toasted flaked almonds

@@ -2,8 +2,8 @@
 title:  Ploughman’s with Particularly British Piccalilli
 type: main
 protein: meat
+vibes: 🇪🇺
 ---
-
 ## Ingredients
 
 Tracklements Particularly British Piccalilli , Slices of Wiltshire ham , Chunks of Cheddar cheese , Half a pork pie , A crusty bread roll , Slices of apple , Pickles

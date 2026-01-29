@@ -3,8 +3,8 @@ title: 🍐 pickled pears
 type: snack
 protein: vegetarian
 effort: weeknight
+vibes: 🇪🇺
 ---
-
 ## Method
 
 step 1

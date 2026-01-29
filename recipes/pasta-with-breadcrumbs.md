@@ -3,9 +3,8 @@ title: 🍝 Pasta with breadcrumbs
 type: pasta
 protein: pescatarian
 effort: weeknight
-vibes: 🧂,🥗
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 •	extra virgin olive oil for cooking , 	•	40g fine dried breadcrumbs , 	•	50g unsalted butter , 	•	1 fresh red chilli, deseeded and finely chopped , 	•	1 garlic clove, finely sliced , 	•	1 salted anchovy, chopped , 	•	zest and juice of 1 unwaxed lemon , 	•	120g Parmesan cheese, grated , 	•	a handful of sage leaves , 	•	400g dried spaghetti, linguine or bucatini , 	•	sea salt and freshly ground black pepper

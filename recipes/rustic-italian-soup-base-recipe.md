@@ -3,8 +3,8 @@ title:  Rustic Italian Soup - Base recipe
 type: main
 protein: meat
 effort: weeknight
+vibes: 🇮🇹
 ---
-
 ## Ingredients
 
 Olive oil: 2 tbsp , Garlic: 2 cloves, minced , Meat (optional): Small amount of sausage, pancetta, or salami (about 100g), chopped (or leave out for vegetarian version) , Vegetables: 2 carrots, 2 celery stalks, chopped; a handful of dark greens (like kale or chard), chopped , Stock: 4 cups (vegetable or chicken) , Beans: 1 can (400g) of cannellini or any white beans, drained and rinsed , Bread: 2 slices of stale crusty bread, torn into chunks , Tomatoes (optional): 1 can (400g) diced tomatoes (or 2 fresh tomatoes, chopped) , Seasoning: Salt, pepper, a pinch of red pepper flakes (optional), herbs like thyme or rosemary
