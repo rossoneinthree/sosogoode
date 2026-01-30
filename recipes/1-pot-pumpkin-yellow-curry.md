@@ -1,9 +1,9 @@
 ---
-title: 1-Pot Pumpkin Yellow Curry
+title: 🟡 1-Pot Pumpkin Yellow Curry
 type: main
 protein: vegetarian
 effort: weeknight
-vibes: 🌎
+vibes: 🌎 🇮🇳
 ---
 
 ## Info
