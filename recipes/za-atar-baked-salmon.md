@@ -1,4 +1,4 @@
-﻿---
+---
 title: 🐟 Za'atar baked salmon
 type: main
 protein: pescatarian
@@ -9,13 +9,16 @@ added: 2026-01-29
 
 ## Ingredients
 
-600 g salmon filet (I prefer thick, skin-on pieces)
+600 g salmon filet 
 salt
 2 Tbsp za'atar
 1 Tbsp sumac
-1 Tbsp olive oil (I use a mild extra virgin)
+1 Tbsp olive oil 
+Lemon zest
+Lemon juice
+Garlic grated
 ¼ tsp salt
-¼ tsp black pepper (I use freshly ground)
+¼ tsp black pepper 
 
 ## Method
 
