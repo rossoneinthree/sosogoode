@@ -1,5 +1,5 @@
 ---
-title: Baghdad baid masus
+title: 🥚 Baghdad baid masus
 type: breakfast
 protein: vegetarian
 effort: weeknight
