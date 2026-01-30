@@ -464,6 +464,7 @@
             <button class="filter-button emoji" data-filter="vibes" data-value="🥑">🥑</button>
             <button class="filter-button emoji" data-filter="vibes" data-value="🇮🇳">🇮🇳</button>
             <button class="filter-button emoji" data-filter="vibes" data-value="🍆">🍆</button>
+            <button class="filter-button emoji" data-filter="vibes" data-value="🥔">🥔</button>
         </div>
     </div>
 
@@ -696,9 +697,14 @@
 
             // Check vibes filter (if active)
             if (activeFilters.vibes.size > 0) {
-                const hasMatchingVibe = Array.from(activeFilters.vibes).some(vibe => 
-                    recipe.vibes.includes(vibe)
-                );
+                const hasMatchingVibe = Array.from(activeFilters.vibes).some(vibe => {
+                    // Special case: potato emoji filters by title
+                    if (vibe === '🥔') {
+                        return recipe.title.toLowerCase().includes('potato');
+                    }
+                    // Regular vibe matching
+                    return recipe.vibes.includes(vibe);
+                });
                 if (!hasMatchingVibe) {
                     return false;
                 }
