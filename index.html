@@ -27,8 +27,53 @@
             font-size: 16px;
             font-weight: 700;
             color: #ff6b35;
-            margin-bottom: 12px;
             text-transform: lowercase;
+        }
+
+        /* Title and History Row */
+        .title-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+
+        /* Recently Viewed */
+        .recently-viewed {
+            display: none;
+            gap: 8px;
+        }
+
+        .recently-viewed.visible {
+            display: flex;
+        }
+
+        .recent-recipe-btn {
+            width: 44px;
+            height: 44px;
+            border: 2px solid #ddd;
+            border-radius: 50%;
+            background: #fff;
+            font-size: 24px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .recent-recipe-btn:hover {
+            border-color: #ff6b35;
+            transform: scale(1.05);
+        }
+
+        .recent-recipe-btn:active {
+            transform: scale(0.95);
+        }
+
+        .recent-recipe-btn.active {
+            border-color: #ff6b35;
+            background: #fff5f0;
         }
 
         /* Wake Lock Button */
@@ -101,12 +146,12 @@
         .filters {
             margin-bottom: 16px;
             background: #fff;
-            padding: 8px 0;
+            padding: 0;
             border-bottom: 1px solid #eee;
         }
 
         .filter-group {
-            margin-bottom: 8px;
+            margin-bottom: 6px;
         }
 
         .filter-group:last-child {
@@ -314,7 +359,7 @@
         .close-button {
             display: inline-block;
             padding: 8px 16px;
-            background: #333;
+            background: #ff6b35;
             color: #fff;
             border: none;
             border-radius: 4px;
@@ -378,8 +423,11 @@
     <!-- Scroll to Top Button -->
     <button class="scroll-top-button" id="scroll-top-btn" onclick="scrollToTop()" title="Scroll to top">↑</button>
 
-    <!-- Site Title -->
-    <div class="site-title">sosogoode</div>
+    <!-- Title and Recently Viewed Row -->
+    <div class="title-row">
+        <div class="site-title">sosogoode</div>
+        <div class="recently-viewed" id="recently-viewed"></div>
+    </div>
 
 <!-- Filters -->
     <div class="filters">
@@ -495,6 +543,8 @@
             effort: new Set(),
             vibes: new Set()
         };
+        let recentlyViewed = []; // Track last 5 viewed recipes
+        let currentRecipe = null; // Track currently open recipe
 
         // Load and parse all recipes
         async function loadRecipes() {
@@ -736,6 +786,47 @@
                 }).join('');
         }
 
+        // Update recently viewed recipes display
+        function updateRecentlyViewed() {
+            const container = document.getElementById('recently-viewed');
+            
+            if (recentlyViewed.length === 0) {
+                container.classList.remove('visible');
+                return;
+            }
+            
+            container.classList.add('visible');
+            container.innerHTML = recentlyViewed.map(filename => {
+                const recipe = allRecipes.find(r => r.filename === filename);
+                if (!recipe) return '';
+                
+                // Extract first emoji from title
+                const emojiMatch = recipe.title.match(/[\p{Emoji}]/u);
+                const emoji = emojiMatch ? emojiMatch[0] : '📄';
+                
+                const isActive = currentRecipe === filename ? 'active' : '';
+                
+                return `<button class="recent-recipe-btn ${isActive}" onclick="showRecipe('${filename}')" title="${recipe.title}">${emoji}</button>`;
+            }).join('');
+        }
+
+        // Add recipe to recently viewed
+        function addToRecentlyViewed(filename) {
+            // Remove if already in list
+            recentlyViewed = recentlyViewed.filter(f => f !== filename);
+            
+            // Add to start
+            recentlyViewed.unshift(filename);
+            
+            // Keep only last 5
+            if (recentlyViewed.length > 5) {
+                recentlyViewed = recentlyViewed.slice(0, 5);
+            }
+            
+            currentRecipe = filename;
+            updateRecentlyViewed();
+        }
+
         // Show recipe detail
         function showRecipe(filename) {
             const recipe = allRecipes.find(r => r.filename === filename);
@@ -768,6 +859,9 @@
             // Add recipe title at the top
             html = '<h2 style="margin-bottom: 24px; font-size: 28px; font-weight: 600;">' + recipe.title + '</h2>' + html;
 
+            // Add to recently viewed history
+            addToRecentlyViewed(filename);
+
             // Show detail view
             document.getElementById('recipe-content').innerHTML = html;
             document.getElementById('recipe-detail').classList.add('visible');
@@ -779,6 +873,8 @@
         // Close recipe detail
         function closeRecipe() {
             document.getElementById('recipe-detail').classList.remove('visible');
+            currentRecipe = null;
+            updateRecentlyViewed();
         }
 
         // Handle filter button clicks
