@@ -22,6 +22,15 @@
             position: relative;
         }
 
+        /* Site Title */
+        .site-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: #ff6b35;
+            margin-bottom: 12px;
+            text-transform: lowercase;
+        }
+
         /* Wake Lock Button */
         .wake-lock-button {
             position: fixed;
@@ -51,6 +60,37 @@
             transform: scale(0.95);
         }
 
+        /* Scroll to Top Button */
+        .scroll-top-button {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50px;
+            height: 50px;
+            border: 1px solid #ddd;
+            border-radius: 50%;
+            background: #fff;
+            font-size: 24px;
+            cursor: pointer;
+            z-index: 200;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            opacity: 0;
+            transition: opacity 0.3s, transform 0.2s;
+        }
+
+        .scroll-top-button.visible {
+            display: flex;
+            opacity: 1;
+        }
+
+        .scroll-top-button:active {
+            transform: translateX(-50%) scale(0.95);
+        }
+
         h1 {
             font-size: 24px;
             margin-bottom: 20px;
@@ -60,11 +100,8 @@
         /* Filter Section */
         .filters {
             margin-bottom: 16px;
-            position: sticky;
-            top: 0;
             background: #fff;
             padding: 8px 0;
-            z-index: 100;
             border-bottom: 1px solid #eee;
         }
 
@@ -338,6 +375,12 @@
     <!-- Wake Lock Button -->
     <button class="wake-lock-button" id="wake-lock-btn" onclick="toggleWakeLock()" title="Keep screen awake">☕</button>
 
+    <!-- Scroll to Top Button -->
+    <button class="scroll-top-button" id="scroll-top-btn" onclick="scrollToTop()" title="Scroll to top">↑</button>
+
+    <!-- Site Title -->
+    <div class="site-title">sosogoode</div>
+
 <!-- Filters -->
     <div class="filters">
         <!-- Recipe Type Filters -->
@@ -427,6 +470,21 @@
                 }
             }
         }
+
+        // Scroll to Top functionality
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Show/hide scroll to top button based on scroll position
+        window.addEventListener('scroll', () => {
+            const scrollTopBtn = document.getElementById('scroll-top-btn');
+            if (window.scrollY > 300) {
+                scrollTopBtn.classList.add('visible');
+            } else {
+                scrollTopBtn.classList.remove('visible');
+            }
+        });
 
         // State
         let allRecipes = [];
@@ -706,6 +764,9 @@
             // Convert line breaks
             html = html.replace(/\n\n/g, '</p><p>');
             html = '<p>' + html + '</p>';
+
+            // Add recipe title at the top
+            html = '<h2 style="margin-bottom: 24px; font-size: 28px; font-weight: 600;">' + recipe.title + '</h2>' + html;
 
             // Show detail view
             document.getElementById('recipe-content').innerHTML = html;
