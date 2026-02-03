@@ -1,10 +1,10 @@
 ---
-title: 🌱 Classic ratatouille
+title: 🌱 Ratatouille
 type: main
 protein: vegatarian
 effort: weeknight
 vibes: 🇪🇺🇮🇹
-added: 2026-02-03
+date_added: 2026-02-03
 ---
 
 ## Ingredients
