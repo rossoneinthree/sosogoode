@@ -1,7 +1,7 @@
 ---
 title: 🌱 Ratatouille
 type: main
-protein: vegatarian
+protein: vegetarian
 effort: weeknight
 vibes: 🇪🇺🇮🇹
 date_added: 2026-02-03
